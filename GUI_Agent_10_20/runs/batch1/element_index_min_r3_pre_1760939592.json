@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "url": "https://auth.services.adobe.com/en_US/index.html?callback=https%3A%2F%2Fims-na1.adobelogin.com%2Fims%2Fadobeid%2Fprojectx_webapp%2FAdobeID%2Ftoken%3Fredirect_uri%3Dhttps%253A%252F%252Fnew.express.adobe.com%252F%253Fpostlogin%253Dtrue%2523old_hash%253Dotp%253D166074421%2526from_ims%253Dtrue%2526client_id%253Dprojectx_webapp%2526api%253Dauthorize%2526scope%253Dab.manage%252CAdobeID%252Copenid%252Cread_organizations%252Ccreative_cloud%252Ccreative_sdk%252Ctk_platform%252Ctk_platform_sync%252Caf_byof%252Cstk.a.license_skip.r%252Cstk.a.limited_license.cru%252Cadditional_info.optionalAgreements%252Cuds_read%252Cuds_write%252Caf_ltd_projectx%252Cunified_dev_portal%252Cadditional_info.ownerOrg%252Cadditional_info.roles%252Cadditional_info.roles%252CDCAPI%252Cadditional_info.auth_source%252Cadditional_info.authenticatingAccount%252Cpps.write%252Cpps.delete%252Cpps.image_write%252Ctk_platform_grant_free_subscription%252Cpps.read%252Cfirefly_api%252Cadditional_info.projectedProductContext%252Cadobeio.appregistry.read%252Cadobeio.appregistry.write%252Caccount_cluster.read%252Cindesign_services%252Ceduprofile.write%252Ceduprofile.read%26state%3D%257B%2522jslibver%2522%253A%2522v2-v0.48.0-1-g1e322cb%2522%252C%2522nonce%2522%253A%25222156245873854074%2522%257D%26code_challenge_method%3Dplain%26use_ms_for_expiry%3Dtrue&client_id=projectx_webapp&scope=ab.manage%2CAdobeID%2Copenid%2Cread_organizations%2Ccreative_cloud%2Ccreative_sdk%2Ctk_platform%2Ctk_platform_sync%2Caf_byof%2Cstk.a.license_skip.r%2Cstk.a.limited_license.cru%2Cadditional_info.optionalAgreements%2Cuds_read%2Cuds_write%2Caf_ltd_projectx%2Cunified_dev_portal%2Cadditional_info.ownerOrg%2Cadditional_info.roles%2CDCAPI%2Cadditional_info.auth_source%2Cadditional_info.authenticatingAccount%2Cpps.write%2Cpps.delete%2Cpps.image_write%2Ctk_platform_grant_free_subscription%2Cpps.read%2Cfirefly_api%2Cadditional_info.projectedProductContext%2Cadobeio.appregistry.read%2Cadobeio.appregistry.write%2Caccount_cluster.read%2Cindesign_services%2Ceduprofile.write%2Ceduprofile.read&state=%7B%22jslibver%22%3A%22v2-v0.48.0-1-g1e322cb%22%2C%22nonce%22%3A%222156245873854074%22%7D&relay=0c79d40d-3127-4966-a416-20b14126ce3c&locale=en_US&flow_type=token&dctx_id=v%3A2%2Cs%2Cdcp-r%2Cbg%3Aexpress2024%2C45faecb0-e687-11ee-a865-f545a8ca5d2c&idp_flow_type=login&ab_test=t1-code-login%2Ccomplete-account-new-design%2Cremove-default-month%7Ct1-code-login-ref%2Ccomplete-account-new-design%2Cremove-default-month&s_p=google%2Cfacebook%2Capple%2Cmicrosoft%2Cline%2Ckakao&response_type=token&code_challenge_method=plain&redirect_uri=https%3A%2F%2Fnew.express.adobe.com%2F%3Fpostlogin%3Dtrue%23old_hash%3Dotp%3D166074421%26from_ims%3Dtrue%26client_id%3Dprojectx_webapp%26api%3Dauthorize%26scope%3Dab.manage%2CAdobeID%2Copenid%2Cread_organizations%2Ccreative_cloud%2Ccreative_sdk%2Ctk_platform%2Ctk_platform_sync%2Caf_byof%2Cstk.a.license_skip.r%2Cstk.a.limited_license.cru%2Cadditional_info.optionalAgreements%2Cuds_read%2Cuds_write%2Caf_ltd_projectx%2Cunified_dev_portal%2Cadditional_info.ownerOrg%2Cadditional_info.roles%2Cadditional_info.roles%2CDCAPI%2Cadditional_info.auth_source%2Cadditional_info.authenticatingAccount%2Cpps.write%2Cpps.delete%2Cpps.image_write%2Ctk_platform_grant_free_subscription%2Cpps.read%2Cfirefly_api%2Cadditional_info.projectedProductContext%2Cadobeio.appregistry.read%2Cadobeio.appregistry.write%2Caccount_cluster.read%2Cindesign_services%2Ceduprofile.write%2Ceduprofile.read&use_ms_for_expiry=true#/error/mfa-soft-locked",
+    "timestamp": 1760939592,
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "screenshot": "screenshot_r3_pre_1760939592.png"
+  },
+  "elements_min": [
+    {
+      "uid": "38e837f9",
+      "role": null,
+      "tag": "button",
+      "name": "Go back to sign in",
+      "selector_pref": "button#react-aria-87",
+      "bbox": {
+        "x": 508.75,
+        "y": 486.82293701171875,
+        "width": 136.25,
+        "height": 32
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "328c1fdc",
+      "role": "button",
+      "tag": "button",
+      "name": "Contact us",
+      "selector_pref": "[aria-label=\"Contact us\"]",
+      "bbox": {
+        "x": 1340,
+        "y": 780,
+        "width": 60,
+        "height": 60
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "5b6d15d9",
+      "role": null,
+      "tag": "a",
+      "name": "Terms of Use",
+      "selector_pref": "a[href=\"https://www.adobe.com/legal/terms-linkfree.html\"]",
+      "bbox": {
+        "x": 817.6875,
+        "y": 867,
+        "width": 105.25,
+        "height": 21
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "001a36f4",
+      "role": null,
+      "tag": "a",
+      "name": "Privacy",
+      "selector_pref": "a[href=\"https://www.adobe.com/go/privacy_policy_linkfree_en\"]",
+      "bbox": {
+        "x": 1064.21875,
+        "y": 867,
+        "width": 73.51042175292969,
+        "height": 21
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "40474997",
+      "role": null,
+      "tag": "a",
+      "name": "Do not sell or share my personal information",
+      "selector_pref": "a[href=\"https://www.adobe.com/privacy/us-rights-linkfree.html\"]",
+      "bbox": {
+        "x": 1137.729248046875,
+        "y": 867,
+        "width": 286.2708435058594,
+        "height": 21
+      },
+      "frame_path": [],
+      "shadow_path": null
+    }
+  ]
+}

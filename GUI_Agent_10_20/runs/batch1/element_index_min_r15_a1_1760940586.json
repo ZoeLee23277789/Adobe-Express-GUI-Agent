@@ -1,0 +1,353 @@
+{
+  "meta": {
+    "url": "https://new.express.adobe.com/your-stuff/files",
+    "timestamp": 1760940586,
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "screenshot": "screenshot_r15_a1_1760940586.png"
+  },
+  "elements_min": [
+    {
+      "uid": "ax-27",
+      "role": "button",
+      "tag": null,
+      "name": "Apps switcher",
+      "selector_pref": "aria://button::Apps switcher",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-31",
+      "role": "button",
+      "tag": null,
+      "name": "Adobe Home",
+      "selector_pref": "aria://button::Adobe Home",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-37",
+      "role": "button",
+      "tag": null,
+      "name": "Firefly",
+      "selector_pref": "aria://button::Firefly",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-43",
+      "role": "button",
+      "tag": null,
+      "name": "Express",
+      "selector_pref": "aria://button::Express",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-49",
+      "role": "button",
+      "tag": null,
+      "name": "Photoshop",
+      "selector_pref": "aria://button::Photoshop",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-55",
+      "role": "button",
+      "tag": null,
+      "name": "Lightroom",
+      "selector_pref": "aria://button::Lightroom",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-61",
+      "role": "button",
+      "tag": null,
+      "name": "Acrobat",
+      "selector_pref": "aria://button::Acrobat",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-67",
+      "role": "button",
+      "tag": null,
+      "name": "Fonts",
+      "selector_pref": "aria://button::Fonts",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-86",
+      "role": "link",
+      "tag": null,
+      "name": "Adobe Express",
+      "selector_pref": "aria://link::Adobe Express",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-115",
+      "role": "textbox",
+      "tag": null,
+      "name": "Search Files",
+      "selector_pref": "aria://textbox::Search Files",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-121",
+      "role": "button",
+      "tag": null,
+      "name": "Clear",
+      "selector_pref": "aria://button::Clear",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-129",
+      "role": "button",
+      "tag": null,
+      "name": "Start free trial",
+      "selector_pref": "aria://button::Start free trial",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-157",
+      "role": "button",
+      "tag": null,
+      "name": "Submit feedback",
+      "selector_pref": "aria://button::Submit feedback",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-166",
+      "role": "button",
+      "tag": null,
+      "name": "Help",
+      "selector_pref": "aria://button::Help",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-177",
+      "role": "button",
+      "tag": null,
+      "name": "Notifications",
+      "selector_pref": "aria://button::Notifications",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-196",
+      "role": "button",
+      "tag": null,
+      "name": "Account",
+      "selector_pref": "aria://button::Account",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-240",
+      "role": "button",
+      "tag": null,
+      "name": "Create new",
+      "selector_pref": "aria://button::Create new",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-252",
+      "role": "button",
+      "tag": null,
+      "name": "Home",
+      "selector_pref": "aria://button::Home",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-265",
+      "role": "button",
+      "tag": null,
+      "name": "Your stuff",
+      "selector_pref": "aria://button::Your stuff",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-278",
+      "role": "button",
+      "tag": null,
+      "name": "Brands",
+      "selector_pref": "aria://button::Brands",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-320",
+      "role": "button",
+      "tag": null,
+      "name": "Templates",
+      "selector_pref": "aria://button::Templates",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-333",
+      "role": "button",
+      "tag": null,
+      "name": "Schedule",
+      "selector_pref": "aria://button::Schedule",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-346",
+      "role": "button",
+      "tag": null,
+      "name": "Learn",
+      "selector_pref": "aria://button::Learn",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-359",
+      "role": "button",
+      "tag": null,
+      "name": "Add-ons",
+      "selector_pref": "aria://button::Add-ons",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-400",
+      "role": "link",
+      "tag": null,
+      "name": "Files",
+      "selector_pref": "aria://link::Files",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-408",
+      "role": "link",
+      "tag": null,
+      "name": "Projects",
+      "selector_pref": "aria://link::Projects",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-424",
+      "role": "link",
+      "tag": null,
+      "name": "Libraries",
+      "selector_pref": "aria://link::Libraries",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-437",
+      "role": "link",
+      "tag": null,
+      "name": "Favorites",
+      "selector_pref": "aria://link::Favorites",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-453",
+      "role": "button",
+      "tag": null,
+      "name": "Create",
+      "selector_pref": "aria://button::Create",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-472",
+      "role": "button",
+      "tag": null,
+      "name": "Yours Yours",
+      "selector_pref": "aria://button::Yours Yours",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-500",
+      "role": "button",
+      "tag": null,
+      "name": "Type",
+      "selector_pref": "aria://button::Type",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-511",
+      "role": "button",
+      "tag": null,
+      "name": "Modified",
+      "selector_pref": "aria://button::Modified",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-530",
+      "role": "button",
+      "tag": null,
+      "name": "Grid or List View",
+      "selector_pref": "aria://button::Grid or List View",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-562",
+      "role": "button",
+      "tag": null,
+      "name": "Create from scratch",
+      "selector_pref": "aria://button::Create from scratch",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    }
+  ]
+}

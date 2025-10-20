@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "url": "https://new.express.adobe.com/search",
+    "timestamp": 1760932134,
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "screenshot": "screenshot_r7_a2_1760932134.png"
+  },
+  "elements_min": [
+    {
+      "uid": "ax-15",
+      "role": "button",
+      "tag": null,
+      "name": "Close",
+      "selector_pref": "aria://button::Close",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-30",
+      "role": "button",
+      "tag": null,
+      "name": "Customize webpage template",
+      "selector_pref": "aria://button::Customize webpage template",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-46",
+      "role": "button",
+      "tag": null,
+      "name": "Previous webpageTemplates",
+      "selector_pref": "aria://button::Previous webpageTemplates",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-53",
+      "role": "button",
+      "tag": null,
+      "name": "Next webpageTemplates",
+      "selector_pref": "aria://button::Next webpageTemplates",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    }
+  ]
+}

@@ -1,0 +1,603 @@
+{
+  "meta": {
+    "url": "https://new.express.adobe.com/learn?playlist=playlist%2Fexpress%2Fget-started",
+    "timestamp": 1760937592,
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "screenshot": "screenshot_r8_pre_1760937592.png"
+  },
+  "elements_min": [
+    {
+      "uid": "ax-27",
+      "role": "button",
+      "tag": null,
+      "name": "Apps switcher",
+      "selector_pref": "aria://button::Apps switcher",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-31",
+      "role": "button",
+      "tag": null,
+      "name": "Adobe Home",
+      "selector_pref": "aria://button::Adobe Home",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-37",
+      "role": "button",
+      "tag": null,
+      "name": "Firefly",
+      "selector_pref": "aria://button::Firefly",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-43",
+      "role": "button",
+      "tag": null,
+      "name": "Express",
+      "selector_pref": "aria://button::Express",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-49",
+      "role": "button",
+      "tag": null,
+      "name": "Photoshop",
+      "selector_pref": "aria://button::Photoshop",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-55",
+      "role": "button",
+      "tag": null,
+      "name": "Lightroom",
+      "selector_pref": "aria://button::Lightroom",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-61",
+      "role": "button",
+      "tag": null,
+      "name": "Acrobat",
+      "selector_pref": "aria://button::Acrobat",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-67",
+      "role": "button",
+      "tag": null,
+      "name": "Fonts",
+      "selector_pref": "aria://button::Fonts",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-86",
+      "role": "link",
+      "tag": null,
+      "name": "Adobe Express",
+      "selector_pref": "aria://link::Adobe Express",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-109",
+      "role": "textbox",
+      "tag": null,
+      "name": "Search for templates and more",
+      "selector_pref": "aria://textbox::Search for templates and more",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-120",
+      "role": "button",
+      "tag": null,
+      "name": "Start free trial",
+      "selector_pref": "aria://button::Start free trial",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-148",
+      "role": "button",
+      "tag": null,
+      "name": "Submit feedback",
+      "selector_pref": "aria://button::Submit feedback",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-157",
+      "role": "button",
+      "tag": null,
+      "name": "Help",
+      "selector_pref": "aria://button::Help",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-168",
+      "role": "button",
+      "tag": null,
+      "name": "Notifications",
+      "selector_pref": "aria://button::Notifications",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-187",
+      "role": "button",
+      "tag": null,
+      "name": "Account",
+      "selector_pref": "aria://button::Account",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-231",
+      "role": "button",
+      "tag": null,
+      "name": "Create new",
+      "selector_pref": "aria://button::Create new",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-243",
+      "role": "button",
+      "tag": null,
+      "name": "Home",
+      "selector_pref": "aria://button::Home",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-256",
+      "role": "button",
+      "tag": null,
+      "name": "Your stuff",
+      "selector_pref": "aria://button::Your stuff",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-269",
+      "role": "button",
+      "tag": null,
+      "name": "Brands",
+      "selector_pref": "aria://button::Brands",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-311",
+      "role": "button",
+      "tag": null,
+      "name": "Templates",
+      "selector_pref": "aria://button::Templates",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-324",
+      "role": "button",
+      "tag": null,
+      "name": "Schedule",
+      "selector_pref": "aria://button::Schedule",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-337",
+      "role": "button",
+      "tag": null,
+      "name": "Learn",
+      "selector_pref": "aria://button::Learn",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-350",
+      "role": "button",
+      "tag": null,
+      "name": "Add-ons",
+      "selector_pref": "aria://button::Add-ons",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-387",
+      "role": "button",
+      "tag": null,
+      "name": "Get started",
+      "selector_pref": "aria://button::Get started",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-392",
+      "role": "button",
+      "tag": null,
+      "name": "Expert advice",
+      "selector_pref": "aria://button::Expert advice",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-397",
+      "role": "button",
+      "tag": null,
+      "name": "Design",
+      "selector_pref": "aria://button::Design",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-402",
+      "role": "button",
+      "tag": null,
+      "name": "Social media",
+      "selector_pref": "aria://button::Social media",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-407",
+      "role": "button",
+      "tag": null,
+      "name": "Video",
+      "selector_pref": "aria://button::Video",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-412",
+      "role": "button",
+      "tag": null,
+      "name": "Photography",
+      "selector_pref": "aria://button::Photography",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-417",
+      "role": "button",
+      "tag": null,
+      "name": "Document",
+      "selector_pref": "aria://button::Document",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-422",
+      "role": "button",
+      "tag": null,
+      "name": "Generative AI",
+      "selector_pref": "aria://button::Generative AI",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-427",
+      "role": "button",
+      "tag": null,
+      "name": "What's new",
+      "selector_pref": "aria://button::What's new",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-432",
+      "role": "button",
+      "tag": null,
+      "name": "Career skills",
+      "selector_pref": "aria://button::Career skills",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-447",
+      "role": "button",
+      "tag": null,
+      "name": "Check it out",
+      "selector_pref": "aria://button::Check it out",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-457",
+      "role": "link",
+      "tag": null,
+      "name": "Create a brand kit from scratch or from an existing Library Create a brand kit from scratch or from an existing Library Build Brand Kits fro",
+      "selector_pref": "aria://link::Create a brand kit from scratch or from an existing Library Create a brand kit from scratch or from an existing Library Build Brand Kits from scratch or from an existing library. Upload brand assets and access fonts, colors, and logos. Article and video • 3 minutes",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-479",
+      "role": "link",
+      "tag": null,
+      "name": "How to speed up or slow down your video How to speed up or slow down your video Speeding up or slowing down some or all of a video is simple",
+      "selector_pref": "aria://link::How to speed up or slow down your video How to speed up or slow down your video Speeding up or slowing down some or all of a video is simple in Adobe Express. Article and video • 1 minute",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-500",
+      "role": "link",
+      "tag": null,
+      "name": "How to trim clips and scenes How to trim clips and scenes Get your video clips exactly right with tools that trim and change scene length fo",
+      "selector_pref": "aria://link::How to trim clips and scenes How to trim clips and scenes Get your video clips exactly right with tools that trim and change scene length for an exceptional finished product. Article and video • 2 minutes",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-522",
+      "role": "link",
+      "tag": null,
+      "name": "How to export a video How to export a video Download a completed video and save it for later. Follow these steps to export your video. Artic",
+      "selector_pref": "aria://link::How to export a video How to export a video Download a completed video and save it for later. Follow these steps to export your video. Article and video • 2 minutes",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-543",
+      "role": "link",
+      "tag": null,
+      "name": "How to start a video from a template How to start a video from a template Get a head-start with an Adobe Express template that fits your fav",
+      "selector_pref": "aria://link::How to start a video from a template How to start a video from a template Get a head-start with an Adobe Express template that fits your favorite social media channel and your unique style.  Article and video • 2 minutes",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-565",
+      "role": "link",
+      "tag": null,
+      "name": "How to start a video from scratch How to start a video from scratch Learn how to make a video from scratch using your own uploaded content o",
+      "selector_pref": "aria://link::How to start a video from scratch How to start a video from scratch Learn how to make a video from scratch using your own uploaded content or something from the Adobe Stock library. Article and video • 2 minutes",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-587",
+      "role": "link",
+      "tag": null,
+      "name": "How to add text to video Turn your video’s personality all the way up — even when the volume is turned all the way down. Article and video •",
+      "selector_pref": "aria://link::How to add text to video Turn your video’s personality all the way up — even when the volume is turned all the way down. Article and video • 1 minute",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-605",
+      "role": "link",
+      "tag": null,
+      "name": "How to add media to the Editor or a template Whatever you want to make, adding photos, video, and audio makes your project stand out. Here’s",
+      "selector_pref": "aria://link::How to add media to the Editor or a template Whatever you want to make, adding photos, video, and audio makes your project stand out. Here’s how to do it. Article and video • 1 minute",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-624",
+      "role": "link",
+      "tag": null,
+      "name": "How to add audio to a video Audio can take your video to the next level. Make your voice heard. Give your video some life. Article and video",
+      "selector_pref": "aria://link::How to add audio to a video Audio can take your video to the next level. Make your voice heard. Give your video some life. Article and video • 1 minute",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-642",
+      "role": "link",
+      "tag": null,
+      "name": "How to blur or sharpen your photo Turning smartphone images into professional content is quick and simple using the blur and sharpen tools. ",
+      "selector_pref": "aria://link::How to blur or sharpen your photo Turning smartphone images into professional content is quick and simple using the blur and sharpen tools. Article and video • 1 minute",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-660",
+      "role": "link",
+      "tag": null,
+      "name": "How to remove a background from a photo in one click Photos instantly become more versatile when you remove the background Article and video",
+      "selector_pref": "aria://link::How to remove a background from a photo in one click Photos instantly become more versatile when you remove the background Article and video • 1 minute",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-679",
+      "role": "link",
+      "tag": null,
+      "name": "How to add effects and adjustments to a photo Discover the endless possibilities by adding photo effects and adjustments. Article and video ",
+      "selector_pref": "aria://link::How to add effects and adjustments to a photo Discover the endless possibilities by adding photo effects and adjustments. Article and video • 2 minutes",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-698",
+      "role": "link",
+      "tag": null,
+      "name": "Make text stand out with shapes, shadows, and cutouts Convey your unique vibe with text that reflects your brand’s look and feel. Here are t",
+      "selector_pref": "aria://link::Make text stand out with shapes, shadows, and cutouts Convey your unique vibe with text that reflects your brand’s look and feel. Here are three ways to do it. Article and video • 2 minutes",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-717",
+      "role": "link",
+      "tag": null,
+      "name": "How to flip or rotate a photo Flip and rotate are helpful if your photo is upside down, facing the wrong way, or if you need it in another p",
+      "selector_pref": "aria://link::How to flip or rotate a photo Flip and rotate are helpful if your photo is upside down, facing the wrong way, or if you need it in another position.  Article and video • 1 minute",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-736",
+      "role": "link",
+      "tag": null,
+      "name": "How to edit and format text Communicate a message that stands out with simple tools that make it easy to add and edit text. Article and vide",
+      "selector_pref": "aria://link::How to edit and format text Communicate a message that stands out with simple tools that make it easy to add and edit text. Article and video • 1 minute",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-754",
+      "role": "link",
+      "tag": null,
+      "name": "How to add a photo Adding a photo is easy in Adobe Express. Use a photo from your collection or one of ours to get started.  Article and vid",
+      "selector_pref": "aria://link::How to add a photo Adding a photo is easy in Adobe Express. Use a photo from your collection or one of ours to get started.  Article and video • 1 minute",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-772",
+      "role": "link",
+      "tag": null,
+      "name": "Make text and objects pop with animations Animation can help your design stand out in a social feed or anywhere you distribute it online. Ar",
+      "selector_pref": "aria://link::Make text and objects pop with animations Animation can help your design stand out in a social feed or anywhere you distribute it online. Article and video • 2 minutes",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-790",
+      "role": "link",
+      "tag": null,
+      "name": "Preview before posting to social media Once you’ve created your design or video file, take a sneak peek before going public. Article and vid",
+      "selector_pref": "aria://link::Preview before posting to social media Once you’ve created your design or video file, take a sneak peek before going public. Article and video • 1 minute",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-808",
+      "role": "link",
+      "tag": null,
+      "name": "Guide to photo production A look at the basics of photo editing and stock image curation. Article • 8 minutes",
+      "selector_pref": "aria://link::Guide to photo production A look at the basics of photo editing and stock image curation. Article • 8 minutes",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-826",
+      "role": "link",
+      "tag": null,
+      "name": "Add effects or filters to a video Applying effects — also known as filters — to your video is a simple way to change its overall mood. Artic",
+      "selector_pref": "aria://link::Add effects or filters to a video Applying effects — also known as filters — to your video is a simple way to change its overall mood. Article and video • 1 minute",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-844",
+      "role": "link",
+      "tag": null,
+      "name": "How to upload a font Adding a font to your brand library makes it easy to use in any design. Article and video • 1 minute",
+      "selector_pref": "aria://link::How to upload a font Adding a font to your brand library makes it easy to use in any design. Article and video • 1 minute",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-862",
+      "role": "link",
+      "tag": null,
+      "name": "How to move and edit layers in your design Learn all you need to know about layers. Get your visual elements in order with this intuitive vi",
+      "selector_pref": "aria://link::How to move and edit layers in your design Learn all you need to know about layers. Get your visual elements in order with this intuitive visualization tool. Article • 5 minutes",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-880",
+      "role": "link",
+      "tag": null,
+      "name": "Generative AI for Creativity and Innovation Learn how generative artificial intelligence can help you imagine new possibilities within the c",
+      "selector_pref": "aria://link::Generative AI for Creativity and Innovation Learn how generative artificial intelligence can help you imagine new possibilities within the classroom and beyond. Article • 41 minutes",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-899",
+      "role": "link",
+      "tag": null,
+      "name": "Getting Started with Video Editing in Adobe Express An introduction to video editing in Adobe Express, whether you start from a template or ",
+      "selector_pref": "aria://link::Getting Started with Video Editing in Adobe Express An introduction to video editing in Adobe Express, whether you start from a template or from scratch. Article • 5 minutes",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-918",
+      "role": "link",
+      "tag": null,
+      "name": "Customize a video template to share on social media Starting with a template, add your own videos, edit the text, and add animated elements ",
+      "selector_pref": "aria://link::Customize a video template to share on social media Starting with a template, add your own videos, edit the text, and add animated elements to create a custom social video. Article • 5 minutes",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    }
+  ]
+}

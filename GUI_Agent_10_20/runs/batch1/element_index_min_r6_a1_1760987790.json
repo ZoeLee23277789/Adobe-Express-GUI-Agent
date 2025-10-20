@@ -1,0 +1,754 @@
+{
+  "meta": {
+    "url": "https://firefly.adobe.com/?promoid=L3XTTKDX&locale=en-US&mv=other&mv2=tab",
+    "timestamp": 1760987790,
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "screenshot": "screenshot_r6_a1_1760987790.png"
+  },
+  "elements_min": [
+    {
+      "uid": "d054701f",
+      "role": "button",
+      "tag": "div",
+      "name": "Apps switcher",
+      "selector_pref": "[aria-label=\"Apps switcher\"]",
+      "bbox": {
+        "x": 16,
+        "y": 12,
+        "width": 32,
+        "height": 32
+      },
+      "frame_path": [],
+      "shadow_path": [
+        "div#TAB > top-app-bar-content:nth-of-type(1)"
+      ]
+    },
+    {
+      "uid": "9d69c308",
+      "role": "navigation",
+      "tag": "div",
+      "name": "Adobe Home\nFirefly\nExpress\nPhotoshop\nLightroom\nAcrobat\nFonts",
+      "selector_pref": "[aria-label=\"Apps\"]",
+      "bbox": {
+        "x": 419,
+        "y": 0,
+        "width": 602,
+        "height": 56
+      },
+      "frame_path": [],
+      "shadow_path": [
+        "div#TAB > top-app-bar-content:nth-of-type(1)"
+      ]
+    },
+    {
+      "uid": "83c81b3a",
+      "role": "button",
+      "tag": "div",
+      "name": "Adobe Home",
+      "selector_pref": "[aria-label=\"Adobe Home\"]",
+      "bbox": {
+        "x": 419,
+        "y": 0,
+        "width": 80,
+        "height": 56
+      },
+      "frame_path": [],
+      "shadow_path": [
+        "div#TAB > top-app-bar-content:nth-of-type(1)"
+      ]
+    },
+    {
+      "uid": "44052220",
+      "role": "button",
+      "tag": "div",
+      "name": "Firefly",
+      "selector_pref": "[aria-label=\"Firefly\"]",
+      "bbox": {
+        "x": 505,
+        "y": 0,
+        "width": 80,
+        "height": 56
+      },
+      "frame_path": [],
+      "shadow_path": [
+        "div#TAB > top-app-bar-content:nth-of-type(1)"
+      ]
+    },
+    {
+      "uid": "550b3d7e",
+      "role": "button",
+      "tag": "div",
+      "name": "Express",
+      "selector_pref": "[aria-label=\"Express\"]",
+      "bbox": {
+        "x": 591,
+        "y": 0,
+        "width": 80,
+        "height": 56
+      },
+      "frame_path": [],
+      "shadow_path": [
+        "div#TAB > top-app-bar-content:nth-of-type(1)"
+      ]
+    },
+    {
+      "uid": "b0cb0e69",
+      "role": "button",
+      "tag": "div",
+      "name": "Photoshop",
+      "selector_pref": "[aria-label=\"Photoshop\"]",
+      "bbox": {
+        "x": 677,
+        "y": 0,
+        "width": 80,
+        "height": 56
+      },
+      "frame_path": [],
+      "shadow_path": [
+        "div#TAB > top-app-bar-content:nth-of-type(1)"
+      ]
+    },
+    {
+      "uid": "b4fba280",
+      "role": "button",
+      "tag": "div",
+      "name": "Lightroom",
+      "selector_pref": "[aria-label=\"Lightroom\"]",
+      "bbox": {
+        "x": 763,
+        "y": 0,
+        "width": 80,
+        "height": 56
+      },
+      "frame_path": [],
+      "shadow_path": [
+        "div#TAB > top-app-bar-content:nth-of-type(1)"
+      ]
+    },
+    {
+      "uid": "d1783abd",
+      "role": "button",
+      "tag": "div",
+      "name": "Acrobat",
+      "selector_pref": "[aria-label=\"Acrobat\"]",
+      "bbox": {
+        "x": 849,
+        "y": 0,
+        "width": 80,
+        "height": 56
+      },
+      "frame_path": [],
+      "shadow_path": [
+        "div#TAB > top-app-bar-content:nth-of-type(1)"
+      ]
+    },
+    {
+      "uid": "b1668315",
+      "role": "button",
+      "tag": "div",
+      "name": "Fonts",
+      "selector_pref": "[aria-label=\"Fonts\"]",
+      "bbox": {
+        "x": 935,
+        "y": 0,
+        "width": 80,
+        "height": 56
+      },
+      "frame_path": [],
+      "shadow_path": [
+        "div#TAB > top-app-bar-content:nth-of-type(1)"
+      ]
+    },
+    {
+      "uid": "dcb4ad5b",
+      "role": null,
+      "tag": "a",
+      "name": "Adobe Firefly",
+      "selector_pref": "a[href=\"/\"]",
+      "bbox": {
+        "x": 12,
+        "y": 70,
+        "width": 131.17709350585938,
+        "height": 28
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "e12abb5f",
+      "role": "button",
+      "tag": "sp-action-button",
+      "name": "Provide feedback",
+      "selector_pref": "[aria-label=\"Provide feedback\"]",
+      "bbox": {
+        "x": 1064.3646240234375,
+        "y": 68,
+        "width": 32,
+        "height": 32
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "9cdfda88",
+      "role": "button",
+      "tag": "sp-button",
+      "name": "Join the Discord",
+      "selector_pref": "[data-testid=\"discord-button\"]",
+      "bbox": {
+        "x": 1104.3646240234375,
+        "y": 68,
+        "width": 151.59375,
+        "height": 32
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "741d4b31",
+      "role": "button",
+      "tag": "sp-button",
+      "name": "Upgrade",
+      "selector_pref": "[data-testid=\"persistent-upgrade\"]",
+      "bbox": {
+        "x": 1271.9583740234375,
+        "y": 67.5,
+        "width": 106.03125,
+        "height": 33
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "d5a56609",
+      "role": "button",
+      "tag": "sp-action-button",
+      "name": "Toggle",
+      "selector_pref": "[data-testid=\"firefly-main-sidenav-toggle-button\"]",
+      "bbox": {
+        "x": 12,
+        "y": 856,
+        "width": 32,
+        "height": 32
+      },
+      "frame_path": [],
+      "shadow_path": [
+        "div#root > sp-theme:nth-of-type(1) > span:nth-of-type(1) > div:nth-of-type(1) > firefly-main-sidenav:nth-of-type(1)"
+      ]
+    },
+    {
+      "uid": "e04b9ffc",
+      "role": null,
+      "tag": "firefly-prompt",
+      "name": "Generate",
+      "selector_pref": "[data-testid=\"superhero-prompt-bar-input\"]",
+      "bbox": {
+        "x": 349.53125,
+        "y": 322.2708435058594,
+        "width": 885.59375,
+        "height": 44.395835876464844
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "5dbb817c",
+      "role": "textbox",
+      "tag": "firefly-textfield",
+      "name": "Describe the image you want to generate",
+      "selector_pref": "[aria-label=\"Describe the image you want to generate\"]",
+      "bbox": {
+        "x": 532.53125,
+        "y": 332.2708435058594,
+        "width": 541.8125,
+        "height": 24
+      },
+      "frame_path": [],
+      "shadow_path": [
+        "div#prompt-parent-container > firefly-prompt:nth-of-type(1)"
+      ]
+    },
+    {
+      "uid": "39f8577b",
+      "role": "button",
+      "tag": "sp-picker",
+      "name": "generate",
+      "selector_pref": "[data-testid=\"superhero-prompt-picker-picker\"]",
+      "bbox": {
+        "x": 349.53125,
+        "y": 324.2708435058594,
+        "width": 150,
+        "height": 40
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "8c9dd06c",
+      "role": null,
+      "tag": "button",
+      "name": "Image\ngenerate",
+      "selector_pref": "button#button",
+      "bbox": {
+        "x": 349.53125,
+        "y": 324.2708435058594,
+        "width": 150,
+        "height": 40
+      },
+      "frame_path": [],
+      "shadow_path": [
+        "sp-picker#superhero-prompt-picker-id"
+      ]
+    },
+    {
+      "uid": "64283d5b",
+      "role": "button",
+      "tag": "sp-button",
+      "name": "Generate",
+      "selector_pref": "[data-testid=\"generate-button\"]",
+      "bbox": {
+        "x": 1106.34375,
+        "y": 324.2708435058594,
+        "width": 128.78125,
+        "height": 42.395835876464844
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "daa9fa6f",
+      "role": "button",
+      "tag": "div",
+      "name": "",
+      "selector_pref": "div:nth-of-type(1)",
+      "bbox": {
+        "x": 396.34375,
+        "y": 459.3333435058594,
+        "width": 158.39584350585938,
+        "height": 48
+      },
+      "frame_path": [],
+      "shadow_path": [
+        "firefly-filter-tab-item#featured"
+      ]
+    },
+    {
+      "uid": "5ffeacb5",
+      "role": null,
+      "tag": "div",
+      "name": "Start a board with your content\nBrainstorm, collaborate, and iterate on ideas\nCreate a board\nDrag and drop or select files to import",
+      "selector_pref": "div#root > sp-theme:nth-of-type(1) > span:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "bbox": {
+        "x": 218,
+        "y": 555.3333740234375,
+        "width": 366.88543701171875,
+        "height": 400
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "1c744134",
+      "role": "button",
+      "tag": "sp-button",
+      "name": "Create a board",
+      "selector_pref": "[data-testid=\"boards-create-new-card-button\"]",
+      "bbox": {
+        "x": 329.2083435058594,
+        "y": 766.8333740234375,
+        "width": 144.46875,
+        "height": 34
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "81444f1a",
+      "role": null,
+      "tag": "firefly-navigate-action",
+      "name": "Text to image Open module",
+      "selector_pref": "[data-testid=\"ImageGeneration-card-action-button\"]",
+      "bbox": {
+        "x": 911.7708740234375,
+        "y": 879.3333740234375,
+        "width": 40,
+        "height": 36
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "16cb49f1",
+      "role": "button",
+      "tag": "sp-action-button",
+      "name": "Text to image Open module",
+      "selector_pref": "[aria-label=\"Text to image Open module\"]",
+      "bbox": {
+        "x": 911.7708740234375,
+        "y": 877.3333740234375,
+        "width": 40,
+        "height": 40
+      },
+      "frame_path": [],
+      "shadow_path": [
+        "firefly-navigation-card#476615 > firefly-navigate-action:nth-of-type(1)"
+      ]
+    },
+    {
+      "uid": "5202c75e",
+      "role": null,
+      "tag": "firefly-navigate-action",
+      "name": "Text to video Open module",
+      "selector_pref": "[data-testid=\"text-to-video-card-action-button\"]",
+      "bbox": {
+        "x": 1302.65625,
+        "y": 879.3333740234375,
+        "width": 40,
+        "height": 36
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "c8749af7",
+      "role": "button",
+      "tag": "sp-action-button",
+      "name": "Text to video Open module",
+      "selector_pref": "[aria-label=\"Text to video Open module\"]",
+      "bbox": {
+        "x": 1302.65625,
+        "y": 877.3333740234375,
+        "width": 40,
+        "height": 40
+      },
+      "frame_path": [],
+      "shadow_path": [
+        "firefly-navigation-card#476615 > firefly-navigate-action:nth-of-type(1)"
+      ]
+    },
+    {
+      "uid": "e776e561",
+      "role": null,
+      "tag": "firefly-navigate-action",
+      "name": "Generate with transparent background Open module",
+      "selector_pref": "[data-testid=\"transparent-video-card-action-button\"]",
+      "bbox": {
+        "x": 520.8854370117188,
+        "y": 1327.3333740234375,
+        "width": 40,
+        "height": 36
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "823bbd08",
+      "role": "button",
+      "tag": "sp-action-button",
+      "name": "Generate with transparent background Open module",
+      "selector_pref": "[aria-label=\"Generate with transparent background Open module\"]",
+      "bbox": {
+        "x": 520.8854370117188,
+        "y": 1325.3333740234375,
+        "width": 40,
+        "height": 40
+      },
+      "frame_path": [],
+      "shadow_path": [
+        "firefly-navigation-card#476615 > firefly-navigate-action:nth-of-type(1)"
+      ]
+    },
+    {
+      "uid": "af163394",
+      "role": null,
+      "tag": "firefly-navigate-action",
+      "name": "Generate sound effects Open module",
+      "selector_pref": "[data-testid=\"text-to-sound-effect-card-action-button\"]",
+      "bbox": {
+        "x": 911.7708740234375,
+        "y": 1327.3333740234375,
+        "width": 40,
+        "height": 36
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "063db3b6",
+      "role": "button",
+      "tag": "sp-action-button",
+      "name": "Generate sound effects Open module",
+      "selector_pref": "[aria-label=\"Generate sound effects Open module\"]",
+      "bbox": {
+        "x": 911.7708740234375,
+        "y": 1325.3333740234375,
+        "width": 40,
+        "height": 40
+      },
+      "frame_path": [],
+      "shadow_path": [
+        "firefly-navigation-card#476615 > firefly-navigate-action:nth-of-type(1)"
+      ]
+    },
+    {
+      "uid": "82ceb582",
+      "role": null,
+      "tag": "firefly-navigate-action",
+      "name": "Text to vector Open module",
+      "selector_pref": "[data-testid=\"VectorGeneration-card-action-button\"]",
+      "bbox": {
+        "x": 1302.65625,
+        "y": 1327.3333740234375,
+        "width": 40,
+        "height": 36
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "a27aeeeb",
+      "role": "button",
+      "tag": "sp-action-button",
+      "name": "Text to vector Open module",
+      "selector_pref": "[aria-label=\"Text to vector Open module\"]",
+      "bbox": {
+        "x": 1302.65625,
+        "y": 1325.3333740234375,
+        "width": 40,
+        "height": 40
+      },
+      "frame_path": [],
+      "shadow_path": [
+        "firefly-navigation-card#476615 > firefly-navigate-action:nth-of-type(1)"
+      ]
+    },
+    {
+      "uid": "1b03f6ad",
+      "role": null,
+      "tag": "a",
+      "name": "Learn more about commercial safety",
+      "selector_pref": "a[href=\"https://www.adobe.com/go/firefly_ai_ethics\"]",
+      "bbox": {
+        "x": 365.53125,
+        "y": 1743.3333740234375,
+        "width": 695.1875,
+        "height": 21
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "7a183c19",
+      "role": null,
+      "tag": "a",
+      "name": "Learn more about CAI",
+      "selector_pref": "a[href=\"https://www.adobe.com/go/firefly_cai\"]",
+      "bbox": {
+        "x": 365.53125,
+        "y": 1872.3333740234375,
+        "width": 933.125,
+        "height": 21
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "0a9d15f3",
+      "role": null,
+      "tag": "a",
+      "name": "Join the conversation",
+      "selector_pref": "a[href=\"https://discord.gg/dJnsV5s8PZ\"]",
+      "bbox": {
+        "x": 365.53125,
+        "y": 2001.3333740234375,
+        "width": 941.6041870117188,
+        "height": 21
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "69be73ea",
+      "role": "feed",
+      "tag": "section",
+      "name": "Get inspired by the community",
+      "selector_pref": "[aria-label=\"Get inspired by the community\"]",
+      "bbox": {
+        "x": 218,
+        "y": 2281.08349609375,
+        "width": 1148.666748046875,
+        "height": 1300
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "740f2ec8",
+      "role": "button",
+      "tag": "sp-button",
+      "name": "View full gallery",
+      "selector_pref": "[aria-label=\"View full gallery\"]",
+      "bbox": {
+        "x": 717.7291870117188,
+        "y": 3467.48974609375,
+        "width": 149.20834350585938,
+        "height": 40
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "0e77835e",
+      "role": null,
+      "tag": "a",
+      "name": "https://www.adobe.com/go/thirdparty",
+      "selector_pref": "a[href=\"https://www.adobe.com/go/thirdparty\"]",
+      "bbox": {
+        "x": 576.6979370117188,
+        "y": 3644.39599609375,
+        "width": 171.6666717529297,
+        "height": 14
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "1400bb1f",
+      "role": null,
+      "tag": "a",
+      "name": "",
+      "selector_pref": "a[href=\"/\"]",
+      "bbox": {
+        "x": 196,
+        "y": 3687.375,
+        "width": 81.47917175292969,
+        "height": 16
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "fe989179",
+      "role": null,
+      "tag": "a",
+      "name": "Terms of Use",
+      "selector_pref": "a[href=\"https://www.adobe.com/legal/terms.html\"]",
+      "bbox": {
+        "x": 309.47918701171875,
+        "y": 3689.05224609375,
+        "width": 57.03125,
+        "height": 12.645833969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "940f4b66",
+      "role": null,
+      "tag": "a",
+      "name": "Privacy Policy",
+      "selector_pref": "a[href=\"https://www.adobe.com/privacy/policy.html\"]",
+      "bbox": {
+        "x": 382.51043701171875,
+        "y": 3689.05224609375,
+        "width": 61.40625,
+        "height": 12.645833969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "75828db8",
+      "role": null,
+      "tag": "a",
+      "name": "Cookie Preferences",
+      "selector_pref": "a[href=\"/\"]",
+      "bbox": {
+        "x": 459.91668701171875,
+        "y": 3689.05224609375,
+        "width": 85.39583587646484,
+        "height": 12.645833969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "7bf44591",
+      "role": null,
+      "tag": "a",
+      "name": "Do not sell or share my personal information",
+      "selector_pref": "a[href=\"https://www.adobe.com/privacy/us-rights.html\"]",
+      "bbox": {
+        "x": 561.3125,
+        "y": 3689.05224609375,
+        "width": 199.2604217529297,
+        "height": 12.645833969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "64ca2dca",
+      "role": null,
+      "tag": "a",
+      "name": "Try the industry's top models, from Google, OpenAi ... and more, to create standout content",
+      "selector_pref": "[data-testid=\"banner-cta-anchor\"]",
+      "bbox": {
+        "x": 523.7916870117188,
+        "y": 866.28125,
+        "width": 536.0833740234375,
+        "height": 17.33333396911621
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "cf82c208",
+      "role": "button",
+      "tag": "sp-action-button",
+      "name": "Close",
+      "selector_pref": "[data-testid=\"custom-banner-close\"]",
+      "bbox": {
+        "x": 1373.666748046875,
+        "y": 859,
+        "width": 32,
+        "height": 32
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-204",
+      "role": "link",
+      "tag": null,
+      "name": "Files",
+      "selector_pref": "aria://link::Files",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-213",
+      "role": "link",
+      "tag": null,
+      "name": "Gallery",
+      "selector_pref": "aria://link::Gallery",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-222",
+      "role": "link",
+      "tag": null,
+      "name": "Resources",
+      "selector_pref": "aria://link::Resources",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "url": "https://auth.services.adobe.com/en_US/index.html?callback=https%3A%2F%2Fims-na1.adobelogin.com%2Fims%2Fadobeid%2Fprojectx_webapp%2FAdobeID%2Ftoken%3Fredirect_uri%3Dhttps%253A%252F%252Fnew.express.adobe.com%252F%253Fpostlogin%253Dtrue%2523old_hash%253Dotp%253D619209138%2526from_ims%253Dtrue%2526client_id%253Dprojectx_webapp%2526api%253Dauthorize%2526scope%253Dab.manage%252CAdobeID%252Copenid%252Cread_organizations%252Ccreative_cloud%252Ccreative_sdk%252Ctk_platform%252Ctk_platform_sync%252Caf_byof%252Cstk.a.license_skip.r%252Cstk.a.limited_license.cru%252Cadditional_info.optionalAgreements%252Cuds_read%252Cuds_write%252Caf_ltd_projectx%252Cunified_dev_portal%252Cadditional_info.ownerOrg%252Cadditional_info.roles%252Cadditional_info.roles%252CDCAPI%252Cadditional_info.auth_source%252Cadditional_info.authenticatingAccount%252Cpps.write%252Cpps.delete%252Cpps.image_write%252Ctk_platform_grant_free_subscription%252Cpps.read%252Cfirefly_api%252Cadditional_info.projectedProductContext%252Cadobeio.appregistry.read%252Cadobeio.appregistry.write%252Caccount_cluster.read%252Cindesign_services%252Ceduprofile.write%252Ceduprofile.read%26state%3D%257B%2522jslibver%2522%253A%2522v2-v0.48.0-1-g1e322cb%2522%252C%2522nonce%2522%253A%25222148412259136547%2522%257D%26code_challenge_method%3Dplain%26use_ms_for_expiry%3Dtrue&client_id=projectx_webapp&scope=ab.manage%2CAdobeID%2Copenid%2Cread_organizations%2Ccreative_cloud%2Ccreative_sdk%2Ctk_platform%2Ctk_platform_sync%2Caf_byof%2Cstk.a.license_skip.r%2Cstk.a.limited_license.cru%2Cadditional_info.optionalAgreements%2Cuds_read%2Cuds_write%2Caf_ltd_projectx%2Cunified_dev_portal%2Cadditional_info.ownerOrg%2Cadditional_info.roles%2CDCAPI%2Cadditional_info.auth_source%2Cadditional_info.authenticatingAccount%2Cpps.write%2Cpps.delete%2Cpps.image_write%2Ctk_platform_grant_free_subscription%2Cpps.read%2Cfirefly_api%2Cadditional_info.projectedProductContext%2Cadobeio.appregistry.read%2Cadobeio.appregistry.write%2Caccount_cluster.read%2Cindesign_services%2Ceduprofile.write%2Ceduprofile.read&state=%7B%22jslibver%22%3A%22v2-v0.48.0-1-g1e322cb%22%2C%22nonce%22%3A%222148412259136547%22%7D&relay=e381700a-ae00-4fa0-988c-48de3106f0c0&locale=en_US&flow_type=token&dctx_id=v%3A2%2Cs%2Cdcp-r%2Cbg%3Aexpress2024%2C45faecb0-e687-11ee-a865-f545a8ca5d2c&idp_flow_type=login&ab_test=t1-code-login%2Ccomplete-account-new-design%2Cremove-default-month%7Ct1-code-login-ref%2Ccomplete-account-new-design%2Cremove-default-month&s_p=google%2Cfacebook%2Capple%2Cmicrosoft%2Cline%2Ckakao&response_type=token&code_challenge_method=plain&redirect_uri=https%3A%2F%2Fnew.express.adobe.com%2F%3Fpostlogin%3Dtrue%23old_hash%3Dotp%3D619209138%26from_ims%3Dtrue%26client_id%3Dprojectx_webapp%26api%3Dauthorize%26scope%3Dab.manage%2CAdobeID%2Copenid%2Cread_organizations%2Ccreative_cloud%2Ccreative_sdk%2Ctk_platform%2Ctk_platform_sync%2Caf_byof%2Cstk.a.license_skip.r%2Cstk.a.limited_license.cru%2Cadditional_info.optionalAgreements%2Cuds_read%2Cuds_write%2Caf_ltd_projectx%2Cunified_dev_portal%2Cadditional_info.ownerOrg%2Cadditional_info.roles%2Cadditional_info.roles%2CDCAPI%2Cadditional_info.auth_source%2Cadditional_info.authenticatingAccount%2Cpps.write%2Cpps.delete%2Cpps.image_write%2Ctk_platform_grant_free_subscription%2Cpps.read%2Cfirefly_api%2Cadditional_info.projectedProductContext%2Cadobeio.appregistry.read%2Cadobeio.appregistry.write%2Caccount_cluster.read%2Cindesign_services%2Ceduprofile.write%2Ceduprofile.read&use_ms_for_expiry=true#/progressive-profile/add-security-phone-number/",
+    "timestamp": 1760940353,
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "screenshot": "screenshot_r4_a2_1760940353.png"
+  },
+  "elements_min": [
+    {
+      "uid": "d95ab2a0",
+      "role": null,
+      "tag": "label",
+      "name": "+376 (AD) Andorra\n+971 (AE) United Arab Emirates\n+93 (AF) Afghanistan\n+1 (AG) Antigua and Barbuda\n+1 (AI) Anguilla\n+355 (AL) Albania\n+374 (A",
+      "selector_pref": "div#App > div:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(1) > form:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1)",
+      "bbox": {
+        "x": -1,
+        "y": 0.3333333432674408,
+        "width": 270,
+        "height": 17.33333396911621
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "9a2a21f1",
+      "role": null,
+      "tag": "select",
+      "name": "+376 (AD) Andorra\n+971 (AE) United Arab Emirates\n+93 (AF) Afghanistan\n+1 (AG) Antigua and Barbuda\n+1 (AI) Anguilla\n+355 (AL) Albania\n+374 (A",
+      "selector_pref": "div#App > div:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(1) > form:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1) > select:nth-of-type(1)",
+      "bbox": {
+        "x": -1,
+        "y": 1.6666667461395264,
+        "width": 270,
+        "height": 16
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "59272061",
+      "role": null,
+      "tag": "button",
+      "name": "+1",
+      "selector_pref": "button#react-aria-158",
+      "bbox": {
+        "x": 248.33334350585938,
+        "y": 425.4270935058594,
+        "width": 65,
+        "height": 32
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "a5a47e38",
+      "role": null,
+      "tag": "input",
+      "name": "Phone number",
+      "selector_pref": "[aria-label=\"Phone number\"]",
+      "bbox": {
+        "x": 325.3333435058594,
+        "y": 425.4270935058594,
+        "width": 319.66668701171875,
+        "height": 32
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "6043e8fa",
+      "role": null,
+      "tag": "button",
+      "name": "Not now",
+      "selector_pref": "button#react-aria-171",
+      "bbox": {
+        "x": 461.04168701171875,
+        "y": 496.8333435058594,
+        "width": 82.61458587646484,
+        "height": 32
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "fbbc3bc2",
+      "role": null,
+      "tag": "button",
+      "name": "Continue",
+      "selector_pref": "button#react-aria-175",
+      "bbox": {
+        "x": 559.65625,
+        "y": 496.8333435058594,
+        "width": 85.34375,
+        "height": 32
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "dbe02339",
+      "role": "button",
+      "tag": "button",
+      "name": "Contact us",
+      "selector_pref": "[aria-label=\"Contact us\"]",
+      "bbox": {
+        "x": 1340,
+        "y": 780,
+        "width": 60,
+        "height": 60
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "c1a79a09",
+      "role": null,
+      "tag": "a",
+      "name": "Terms of Use",
+      "selector_pref": "a[href=\"https://www.adobe.com/legal/terms-linkfree.html\"]",
+      "bbox": {
+        "x": 817.6875,
+        "y": 867,
+        "width": 105.25,
+        "height": 21
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "836ff637",
+      "role": null,
+      "tag": "a",
+      "name": "Privacy",
+      "selector_pref": "a[href=\"https://www.adobe.com/go/privacy_policy_linkfree_en\"]",
+      "bbox": {
+        "x": 1064.21875,
+        "y": 867,
+        "width": 73.51042175292969,
+        "height": 21
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "9fb6a3a2",
+      "role": null,
+      "tag": "a",
+      "name": "Do not sell or share my personal information",
+      "selector_pref": "a[href=\"https://www.adobe.com/privacy/us-rights-linkfree.html\"]",
+      "bbox": {
+        "x": 1137.729248046875,
+        "y": 867,
+        "width": 286.2708435058594,
+        "height": 21
+      },
+      "frame_path": [],
+      "shadow_path": null
+    }
+  ]
+}

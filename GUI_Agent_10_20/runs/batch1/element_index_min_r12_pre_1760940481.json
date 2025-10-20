@@ -1,0 +1,743 @@
+{
+  "meta": {
+    "url": "https://new.express.adobe.com/explore/templates",
+    "timestamp": 1760940481,
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "screenshot": "screenshot_r12_pre_1760940481.png"
+  },
+  "elements_min": [
+    {
+      "uid": "ax-27",
+      "role": "button",
+      "tag": null,
+      "name": "Apps switcher",
+      "selector_pref": "aria://button::Apps switcher",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-31",
+      "role": "button",
+      "tag": null,
+      "name": "Adobe Home",
+      "selector_pref": "aria://button::Adobe Home",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-37",
+      "role": "button",
+      "tag": null,
+      "name": "Firefly",
+      "selector_pref": "aria://button::Firefly",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-43",
+      "role": "button",
+      "tag": null,
+      "name": "Express",
+      "selector_pref": "aria://button::Express",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-49",
+      "role": "button",
+      "tag": null,
+      "name": "Photoshop",
+      "selector_pref": "aria://button::Photoshop",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-55",
+      "role": "button",
+      "tag": null,
+      "name": "Lightroom",
+      "selector_pref": "aria://button::Lightroom",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-61",
+      "role": "button",
+      "tag": null,
+      "name": "Acrobat",
+      "selector_pref": "aria://button::Acrobat",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-67",
+      "role": "button",
+      "tag": null,
+      "name": "Fonts",
+      "selector_pref": "aria://button::Fonts",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-86",
+      "role": "link",
+      "tag": null,
+      "name": "Adobe Express",
+      "selector_pref": "aria://link::Adobe Express",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-115",
+      "role": "textbox",
+      "tag": null,
+      "name": "Search Templates",
+      "selector_pref": "aria://textbox::Search Templates",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-121",
+      "role": "button",
+      "tag": null,
+      "name": "Clear",
+      "selector_pref": "aria://button::Clear",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-129",
+      "role": "button",
+      "tag": null,
+      "name": "Start free trial",
+      "selector_pref": "aria://button::Start free trial",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-157",
+      "role": "button",
+      "tag": null,
+      "name": "Submit feedback",
+      "selector_pref": "aria://button::Submit feedback",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-166",
+      "role": "button",
+      "tag": null,
+      "name": "Help",
+      "selector_pref": "aria://button::Help",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-177",
+      "role": "button",
+      "tag": null,
+      "name": "Notifications",
+      "selector_pref": "aria://button::Notifications",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-196",
+      "role": "button",
+      "tag": null,
+      "name": "Account",
+      "selector_pref": "aria://button::Account",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-240",
+      "role": "button",
+      "tag": null,
+      "name": "Create new",
+      "selector_pref": "aria://button::Create new",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-252",
+      "role": "button",
+      "tag": null,
+      "name": "Home",
+      "selector_pref": "aria://button::Home",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-265",
+      "role": "button",
+      "tag": null,
+      "name": "Your stuff",
+      "selector_pref": "aria://button::Your stuff",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-278",
+      "role": "button",
+      "tag": null,
+      "name": "Brands",
+      "selector_pref": "aria://button::Brands",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-320",
+      "role": "button",
+      "tag": null,
+      "name": "Templates",
+      "selector_pref": "aria://button::Templates",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-333",
+      "role": "button",
+      "tag": null,
+      "name": "Schedule",
+      "selector_pref": "aria://button::Schedule",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-346",
+      "role": "button",
+      "tag": null,
+      "name": "Learn",
+      "selector_pref": "aria://button::Learn",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-359",
+      "role": "button",
+      "tag": null,
+      "name": "Add-ons",
+      "selector_pref": "aria://button::Add-ons",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-403",
+      "role": "link",
+      "tag": null,
+      "name": "Templates",
+      "selector_pref": "aria://link::Templates",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-411",
+      "role": "link",
+      "tag": null,
+      "name": "Photos",
+      "selector_pref": "aria://link::Photos",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-419",
+      "role": "link",
+      "tag": null,
+      "name": "Videos",
+      "selector_pref": "aria://link::Videos",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-427",
+      "role": "link",
+      "tag": null,
+      "name": "Design assets",
+      "selector_pref": "aria://link::Design assets",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-435",
+      "role": "link",
+      "tag": null,
+      "name": "Backgrounds",
+      "selector_pref": "aria://link::Backgrounds",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-443",
+      "role": "link",
+      "tag": null,
+      "name": "Text layouts",
+      "selector_pref": "aria://link::Text layouts",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-451",
+      "role": "link",
+      "tag": null,
+      "name": "Webpage templates",
+      "selector_pref": "aria://link::Webpage templates",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-459",
+      "role": "link",
+      "tag": null,
+      "name": "Stickers",
+      "selector_pref": "aria://link::Stickers",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-475",
+      "role": "button",
+      "tag": null,
+      "name": "Clear (2)",
+      "selector_pref": "aria://button::Clear (2)",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-482",
+      "role": "button",
+      "tag": null,
+      "name": "Price",
+      "selector_pref": "aria://button::Price",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-490",
+      "role": "button",
+      "tag": null,
+      "name": "Output",
+      "selector_pref": "aria://button::Output",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-498",
+      "role": "button",
+      "tag": null,
+      "name": "Size",
+      "selector_pref": "aria://button::Size",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-506",
+      "role": "button",
+      "tag": null,
+      "name": "Type",
+      "selector_pref": "aria://button::Type",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-514",
+      "role": "button",
+      "tag": null,
+      "name": "Style",
+      "selector_pref": "aria://button::Style",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-522",
+      "role": "button",
+      "tag": null,
+      "name": "Mood",
+      "selector_pref": "aria://button::Mood",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-530",
+      "role": "button",
+      "tag": null,
+      "name": "Region",
+      "selector_pref": "aria://button::Region",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-540",
+      "role": "checkbox",
+      "tag": null,
+      "name": "United States (Default)",
+      "selector_pref": "aria://checkbox::United States (Default)",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-543",
+      "role": "checkbox",
+      "tag": null,
+      "name": "Global",
+      "selector_pref": "aria://checkbox::Global",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-546",
+      "role": "checkbox",
+      "tag": null,
+      "name": "Australia",
+      "selector_pref": "aria://checkbox::Australia",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-549",
+      "role": "checkbox",
+      "tag": null,
+      "name": "Brazil",
+      "selector_pref": "aria://checkbox::Brazil",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-552",
+      "role": "checkbox",
+      "tag": null,
+      "name": "France",
+      "selector_pref": "aria://checkbox::France",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-555",
+      "role": "checkbox",
+      "tag": null,
+      "name": "Germany",
+      "selector_pref": "aria://checkbox::Germany",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-558",
+      "role": "checkbox",
+      "tag": null,
+      "name": "India",
+      "selector_pref": "aria://checkbox::India",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-561",
+      "role": "checkbox",
+      "tag": null,
+      "name": "Japan",
+      "selector_pref": "aria://checkbox::Japan",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-564",
+      "role": "checkbox",
+      "tag": null,
+      "name": "South Korea",
+      "selector_pref": "aria://checkbox::South Korea",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-567",
+      "role": "checkbox",
+      "tag": null,
+      "name": "United Kingdom",
+      "selector_pref": "aria://checkbox::United Kingdom",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-582",
+      "role": "button",
+      "tag": null,
+      "name": "View all",
+      "selector_pref": "aria://button::View all",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-596",
+      "role": "button",
+      "tag": null,
+      "name": "Pink Etsy Profile Pic Instagram Square",
+      "selector_pref": "aria://button::Pink Etsy Profile Pic Instagram Square",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-605",
+      "role": "button",
+      "tag": null,
+      "name": "Metallic Liquid Pinterest Post",
+      "selector_pref": "aria://button::Metallic Liquid Pinterest Post",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-613",
+      "role": "button",
+      "tag": null,
+      "name": "Premium Content Badge",
+      "selector_pref": "aria://button::Premium Content Badge",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-627",
+      "role": "button",
+      "tag": null,
+      "name": "Purple multicolor headshot Instagram Square",
+      "selector_pref": "aria://button::Purple multicolor headshot Instagram Square",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-636",
+      "role": "button",
+      "tag": null,
+      "name": "Brown Textured Grains Pinterest Post",
+      "selector_pref": "aria://button::Brown Textured Grains Pinterest Post",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-657",
+      "role": "button",
+      "tag": null,
+      "name": "Colorful Thank You Bug and Floral Folded Card",
+      "selector_pref": "aria://button::Colorful Thank You Bug and Floral Folded Card",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-669",
+      "role": "button",
+      "tag": null,
+      "name": "Multiple pages",
+      "selector_pref": "aria://button::Multiple pages",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-683",
+      "role": "button",
+      "tag": null,
+      "name": "Green and Bright Floral Inspired Paint Company Pinterest Pin Idea",
+      "selector_pref": "aria://button::Green and Bright Floral Inspired Paint Company Pinterest Pin Idea",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-711",
+      "role": "button",
+      "tag": null,
+      "name": "Grey and White Spring Break Instagram Carousel Collage",
+      "selector_pref": "aria://button::Grey and White Spring Break Instagram Carousel Collage",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-763",
+      "role": "button",
+      "tag": null,
+      "name": "White Layout Instagram Square Post",
+      "selector_pref": "aria://button::White Layout Instagram Square Post",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-886",
+      "role": "button",
+      "tag": null,
+      "name": "Purple and Orange Festive Halloween Flyer",
+      "selector_pref": "aria://button::Purple and Orange Festive Halloween Flyer",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-895",
+      "role": "button",
+      "tag": null,
+      "name": "White Text Run Club Video Instagram Carousel",
+      "selector_pref": "aria://button::White Text Run Club Video Instagram Carousel",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-903",
+      "role": "button",
+      "tag": null,
+      "name": "Video",
+      "selector_pref": "aria://button::Video",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-956",
+      "role": "button",
+      "tag": null,
+      "name": "Cold Polar Punge Snow Water TikTok Video",
+      "selector_pref": "aria://button::Cold Polar Punge Snow Water TikTok Video",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1017",
+      "role": "button",
+      "tag": null,
+      "name": "Mental Health Soccer Video Green",
+      "selector_pref": "aria://button::Mental Health Soccer Video Green",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1091",
+      "role": "button",
+      "tag": null,
+      "name": "Bold and Photographic Native American Heritage Month Instagram Post",
+      "selector_pref": "aria://button::Bold and Photographic Native American Heritage Month Instagram Post",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1100",
+      "role": "button",
+      "tag": null,
+      "name": "yellow brown tan leather Native American flyer",
+      "selector_pref": "aria://button::yellow brown tan leather Native American flyer",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1109",
+      "role": "button",
+      "tag": null,
+      "name": "Minimal and Typographic Native American Heritage Instagram Portrait Post",
+      "selector_pref": "aria://button::Minimal and Typographic Native American Heritage Instagram Portrait Post",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1117",
+      "role": "button",
+      "tag": null,
+      "name": "Autumn Cozy Instagram Carousel",
+      "selector_pref": "aria://button::Autumn Cozy Instagram Carousel",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1166",
+      "role": "button",
+      "tag": null,
+      "name": "Friendly and Simple Indigenous Land Acknowledgement Instagram Portrait",
+      "selector_pref": "aria://button::Friendly and Simple Indigenous Land Acknowledgement Instagram Portrait",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1225",
+      "role": "button",
+      "tag": null,
+      "name": "Romantic and Vintage Instagram Carousel Post",
+      "selector_pref": "aria://button::Romantic and Vintage Instagram Carousel Post",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1264",
+      "role": "button",
+      "tag": null,
+      "name": "Playful and Fun Ice Cream Truck T-Shirt",
+      "selector_pref": "aria://button::Playful and Fun Ice Cream Truck T-Shirt",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    }
+  ]
+}

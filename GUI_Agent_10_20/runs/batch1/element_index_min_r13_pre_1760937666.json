@@ -1,0 +1,1116 @@
+{
+  "meta": {
+    "url": "https://firefly.adobe.com/?promoid=L3XTTKDX&locale=en-US&mv=other&mv2=tab",
+    "timestamp": 1760937666,
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "screenshot": "screenshot_r13_pre_1760937666.png"
+  },
+  "elements_min": [
+    {
+      "uid": "8e98886f",
+      "role": "button",
+      "tag": "div",
+      "name": "Apps switcher",
+      "selector_pref": "[aria-label=\"Apps switcher\"]",
+      "bbox": {
+        "x": 16,
+        "y": 12,
+        "width": 32,
+        "height": 32
+      },
+      "frame_path": [],
+      "shadow_path": [
+        "div#TAB > top-app-bar-content:nth-of-type(1)"
+      ]
+    },
+    {
+      "uid": "cf4d3b6f",
+      "role": "navigation",
+      "tag": "div",
+      "name": "Adobe Home\nFirefly\nExpress\nPhotoshop\nLightroom\nAcrobat\nFonts",
+      "selector_pref": "[aria-label=\"Apps\"]",
+      "bbox": {
+        "x": 419,
+        "y": 0,
+        "width": 602,
+        "height": 56
+      },
+      "frame_path": [],
+      "shadow_path": [
+        "div#TAB > top-app-bar-content:nth-of-type(1)"
+      ]
+    },
+    {
+      "uid": "e9bc3b86",
+      "role": "button",
+      "tag": "div",
+      "name": "Adobe Home",
+      "selector_pref": "[aria-label=\"Adobe Home\"]",
+      "bbox": {
+        "x": 419,
+        "y": 0,
+        "width": 80,
+        "height": 56
+      },
+      "frame_path": [],
+      "shadow_path": [
+        "div#TAB > top-app-bar-content:nth-of-type(1)"
+      ]
+    },
+    {
+      "uid": "20feb23c",
+      "role": "button",
+      "tag": "div",
+      "name": "Firefly",
+      "selector_pref": "[aria-label=\"Firefly\"]",
+      "bbox": {
+        "x": 505,
+        "y": 0,
+        "width": 80,
+        "height": 56
+      },
+      "frame_path": [],
+      "shadow_path": [
+        "div#TAB > top-app-bar-content:nth-of-type(1)"
+      ]
+    },
+    {
+      "uid": "d796ab95",
+      "role": "button",
+      "tag": "div",
+      "name": "Express",
+      "selector_pref": "[aria-label=\"Express\"]",
+      "bbox": {
+        "x": 591,
+        "y": 0,
+        "width": 80,
+        "height": 56
+      },
+      "frame_path": [],
+      "shadow_path": [
+        "div#TAB > top-app-bar-content:nth-of-type(1)"
+      ]
+    },
+    {
+      "uid": "345a89dc",
+      "role": "button",
+      "tag": "div",
+      "name": "Photoshop",
+      "selector_pref": "[aria-label=\"Photoshop\"]",
+      "bbox": {
+        "x": 677,
+        "y": 0,
+        "width": 80,
+        "height": 56
+      },
+      "frame_path": [],
+      "shadow_path": [
+        "div#TAB > top-app-bar-content:nth-of-type(1)"
+      ]
+    },
+    {
+      "uid": "454b97cc",
+      "role": "button",
+      "tag": "div",
+      "name": "Lightroom",
+      "selector_pref": "[aria-label=\"Lightroom\"]",
+      "bbox": {
+        "x": 763,
+        "y": 0,
+        "width": 80,
+        "height": 56
+      },
+      "frame_path": [],
+      "shadow_path": [
+        "div#TAB > top-app-bar-content:nth-of-type(1)"
+      ]
+    },
+    {
+      "uid": "045d0018",
+      "role": "button",
+      "tag": "div",
+      "name": "Acrobat",
+      "selector_pref": "[aria-label=\"Acrobat\"]",
+      "bbox": {
+        "x": 849,
+        "y": 0,
+        "width": 80,
+        "height": 56
+      },
+      "frame_path": [],
+      "shadow_path": [
+        "div#TAB > top-app-bar-content:nth-of-type(1)"
+      ]
+    },
+    {
+      "uid": "be4738a5",
+      "role": "button",
+      "tag": "div",
+      "name": "Fonts",
+      "selector_pref": "[aria-label=\"Fonts\"]",
+      "bbox": {
+        "x": 935,
+        "y": 0,
+        "width": 80,
+        "height": 56
+      },
+      "frame_path": [],
+      "shadow_path": [
+        "div#TAB > top-app-bar-content:nth-of-type(1)"
+      ]
+    },
+    {
+      "uid": "91b541d7",
+      "role": null,
+      "tag": "a",
+      "name": "Adobe Firefly",
+      "selector_pref": "a[href=\"/\"]",
+      "bbox": {
+        "x": 12,
+        "y": 70,
+        "width": 131.17709350585938,
+        "height": 28
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "0f2001fa",
+      "role": "button",
+      "tag": "sp-action-button",
+      "name": "Provide feedback",
+      "selector_pref": "[aria-label=\"Provide feedback\"]",
+      "bbox": {
+        "x": 1064.3646240234375,
+        "y": 68,
+        "width": 32,
+        "height": 32
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "fc254bc0",
+      "role": "button",
+      "tag": "sp-button",
+      "name": "Join the Discord",
+      "selector_pref": "div#root > sp-theme:nth-of-type(1) > span:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > ue-header-container:nth-of-type(1) > div:nth-of-type(5) > sp-button:nth-of-type(1)",
+      "bbox": {
+        "x": 1104.3646240234375,
+        "y": 68,
+        "width": 151.59375,
+        "height": 32
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "b7438186",
+      "role": "button",
+      "tag": "sp-button",
+      "name": "Upgrade",
+      "selector_pref": "div#root > sp-theme:nth-of-type(1) > span:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > ue-header-container:nth-of-type(1) > sp-button:nth-of-type(1)",
+      "bbox": {
+        "x": 1271.9583740234375,
+        "y": 67.5,
+        "width": 106.03125,
+        "height": 33
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "c0b68d74",
+      "role": "button",
+      "tag": "div",
+      "name": "jou-yi Lee Account",
+      "selector_pref": "[aria-label=\"jou-yi Lee Account\"]",
+      "bbox": {
+        "x": 1399.9896240234375,
+        "y": 72,
+        "width": 24,
+        "height": 24
+      },
+      "frame_path": [],
+      "shadow_path": [
+        "div#unav-profile > account-menu-trigger:nth-of-type(1)"
+      ]
+    },
+    {
+      "uid": "7451e7e9",
+      "role": "button",
+      "tag": "sp-action-button",
+      "name": "Toggle",
+      "selector_pref": "[aria-label=\"Toggle\"]",
+      "bbox": {
+        "x": 12,
+        "y": 856,
+        "width": 32,
+        "height": 32
+      },
+      "frame_path": [],
+      "shadow_path": [
+        "div#root > sp-theme:nth-of-type(1) > span:nth-of-type(1) > div:nth-of-type(1) > firefly-main-sidenav:nth-of-type(1)"
+      ]
+    },
+    {
+      "uid": "5991de7a",
+      "role": null,
+      "tag": "firefly-prompt",
+      "name": "Generate",
+      "selector_pref": "[aria-label=\"prompt input\"]",
+      "bbox": {
+        "x": 349.53125,
+        "y": 322.2708435058594,
+        "width": 885.59375,
+        "height": 44.395835876464844
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "cfddff2c",
+      "role": "textbox",
+      "tag": "firefly-textfield",
+      "name": "Describe the image you want to generate",
+      "selector_pref": "[aria-label=\"Describe the image you want to generate\"]",
+      "bbox": {
+        "x": 532.53125,
+        "y": 332.2708435058594,
+        "width": 541.8125,
+        "height": 24
+      },
+      "frame_path": [],
+      "shadow_path": [
+        "div#prompt-parent-container > firefly-prompt:nth-of-type(1)"
+      ]
+    },
+    {
+      "uid": "1978b43a",
+      "role": "button",
+      "tag": "sp-picker",
+      "name": "generate",
+      "selector_pref": "[aria-label=\"generate\"]",
+      "bbox": {
+        "x": 349.53125,
+        "y": 324.2708435058594,
+        "width": 150,
+        "height": 40
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "1903c5cf",
+      "role": null,
+      "tag": "button",
+      "name": "Image\ngenerate",
+      "selector_pref": "button#button",
+      "bbox": {
+        "x": 349.53125,
+        "y": 324.2708435058594,
+        "width": 150,
+        "height": 40
+      },
+      "frame_path": [],
+      "shadow_path": [
+        "sp-picker#superhero-prompt-picker-id"
+      ]
+    },
+    {
+      "uid": "a75d1e8c",
+      "role": "button",
+      "tag": "sp-button",
+      "name": "Generate",
+      "selector_pref": "div#prompt-parent-container > firefly-prompt:nth-of-type(1) > span:nth-of-type(2) > sp-button:nth-of-type(1)",
+      "bbox": {
+        "x": 1106.34375,
+        "y": 324.2708435058594,
+        "width": 128.78125,
+        "height": 42.395835876464844
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "84dca2ed",
+      "role": "button",
+      "tag": "div",
+      "name": "",
+      "selector_pref": "div:nth-of-type(1)",
+      "bbox": {
+        "x": 396.34375,
+        "y": 459.3333435058594,
+        "width": 158.39584350585938,
+        "height": 48
+      },
+      "frame_path": [],
+      "shadow_path": [
+        "firefly-filter-tab-item#featured"
+      ]
+    },
+    {
+      "uid": "9c2b305b",
+      "role": null,
+      "tag": "div",
+      "name": "Start a board with your content\nBrainstorm, collaborate, and iterate on ideas\nCreate a board\nDrag and drop or select files to import",
+      "selector_pref": "div#root > sp-theme:nth-of-type(1) > span:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "bbox": {
+        "x": 218,
+        "y": 555.3333740234375,
+        "width": 366.88543701171875,
+        "height": 400
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "3097ecce",
+      "role": "button",
+      "tag": "sp-button",
+      "name": "Create a board",
+      "selector_pref": "[aria-label=\"Create a board\"]",
+      "bbox": {
+        "x": 329.2083435058594,
+        "y": 766.8333740234375,
+        "width": 144.46875,
+        "height": 34
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "00065197",
+      "role": null,
+      "tag": "firefly-navigate-action",
+      "name": "Text to image Open module",
+      "selector_pref": "[aria-label=\"Text to image Open module\"]",
+      "bbox": {
+        "x": 911.7708740234375,
+        "y": 879.3333740234375,
+        "width": 40,
+        "height": 36
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "54c13765",
+      "role": "button",
+      "tag": "sp-action-button",
+      "name": "Text to image Open module",
+      "selector_pref": "[aria-label=\"Text to image Open module\"]",
+      "bbox": {
+        "x": 911.7708740234375,
+        "y": 877.3333740234375,
+        "width": 40,
+        "height": 40
+      },
+      "frame_path": [],
+      "shadow_path": [
+        "firefly-navigation-card#476615 > firefly-navigate-action:nth-of-type(1)"
+      ]
+    },
+    {
+      "uid": "128d1e72",
+      "role": null,
+      "tag": "firefly-navigate-action",
+      "name": "Text to video Open module",
+      "selector_pref": "[aria-label=\"Text to video Open module\"]",
+      "bbox": {
+        "x": 1302.65625,
+        "y": 879.3333740234375,
+        "width": 40,
+        "height": 36
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "4ae24844",
+      "role": "button",
+      "tag": "sp-action-button",
+      "name": "Text to video Open module",
+      "selector_pref": "[aria-label=\"Text to video Open module\"]",
+      "bbox": {
+        "x": 1302.65625,
+        "y": 877.3333740234375,
+        "width": 40,
+        "height": 40
+      },
+      "frame_path": [],
+      "shadow_path": [
+        "firefly-navigation-card#476615 > firefly-navigate-action:nth-of-type(1)"
+      ]
+    },
+    {
+      "uid": "5f20f494",
+      "role": null,
+      "tag": "firefly-navigate-action",
+      "name": "Generate with transparent background Open module",
+      "selector_pref": "[aria-label=\"Generate with transparent background Open module\"]",
+      "bbox": {
+        "x": 520.8854370117188,
+        "y": 1327.3333740234375,
+        "width": 40,
+        "height": 36
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "535352d4",
+      "role": "button",
+      "tag": "sp-action-button",
+      "name": "Generate with transparent background Open module",
+      "selector_pref": "[aria-label=\"Generate with transparent background Open module\"]",
+      "bbox": {
+        "x": 520.8854370117188,
+        "y": 1325.3333740234375,
+        "width": 40,
+        "height": 40
+      },
+      "frame_path": [],
+      "shadow_path": [
+        "firefly-navigation-card#476615 > firefly-navigate-action:nth-of-type(1)"
+      ]
+    },
+    {
+      "uid": "7323e649",
+      "role": null,
+      "tag": "firefly-navigate-action",
+      "name": "Generate sound effects Open module",
+      "selector_pref": "[aria-label=\"Generate sound effects Open module\"]",
+      "bbox": {
+        "x": 911.7708740234375,
+        "y": 1327.3333740234375,
+        "width": 40,
+        "height": 36
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "98b6885c",
+      "role": "button",
+      "tag": "sp-action-button",
+      "name": "Generate sound effects Open module",
+      "selector_pref": "[aria-label=\"Generate sound effects Open module\"]",
+      "bbox": {
+        "x": 911.7708740234375,
+        "y": 1325.3333740234375,
+        "width": 40,
+        "height": 40
+      },
+      "frame_path": [],
+      "shadow_path": [
+        "firefly-navigation-card#476615 > firefly-navigate-action:nth-of-type(1)"
+      ]
+    },
+    {
+      "uid": "bb71c42c",
+      "role": null,
+      "tag": "firefly-navigate-action",
+      "name": "Text to vector Open module",
+      "selector_pref": "[aria-label=\"Text to vector Open module\"]",
+      "bbox": {
+        "x": 1302.65625,
+        "y": 1327.3333740234375,
+        "width": 40,
+        "height": 36
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "1ad06f24",
+      "role": "button",
+      "tag": "sp-action-button",
+      "name": "Text to vector Open module",
+      "selector_pref": "[aria-label=\"Text to vector Open module\"]",
+      "bbox": {
+        "x": 1302.65625,
+        "y": 1325.3333740234375,
+        "width": 40,
+        "height": 40
+      },
+      "frame_path": [],
+      "shadow_path": [
+        "firefly-navigation-card#476615 > firefly-navigate-action:nth-of-type(1)"
+      ]
+    },
+    {
+      "uid": "1b87a8c6",
+      "role": null,
+      "tag": "a",
+      "name": "Learn more about commercial safety",
+      "selector_pref": "a[href=\"https://www.adobe.com/go/firefly_ai_ethics\"]",
+      "bbox": {
+        "x": 365.53125,
+        "y": 1743.3333740234375,
+        "width": 695.1875,
+        "height": 21
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ebdce993",
+      "role": null,
+      "tag": "a",
+      "name": "Learn more about CAI",
+      "selector_pref": "a[href=\"https://www.adobe.com/go/firefly_cai\"]",
+      "bbox": {
+        "x": 365.53125,
+        "y": 1872.3333740234375,
+        "width": 933.125,
+        "height": 21
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "8aa6e07a",
+      "role": null,
+      "tag": "a",
+      "name": "Join the conversation",
+      "selector_pref": "a[href=\"https://discord.gg/dJnsV5s8PZ\"]",
+      "bbox": {
+        "x": 365.53125,
+        "y": 2001.3333740234375,
+        "width": 941.6041870117188,
+        "height": 21
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "69518f65",
+      "role": "feed",
+      "tag": "section",
+      "name": "Gabi Duncombe\nflower suspended in a large block of ice, minimalist, refractions of light, rainbow chromatic light leaks, gorgeous lighting, ",
+      "selector_pref": "[aria-label=\"Get inspired by the community\"]",
+      "bbox": {
+        "x": 218,
+        "y": 2281.08349609375,
+        "width": 1148.666748046875,
+        "height": 1300
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "5aa3c30f",
+      "role": null,
+      "tag": "article",
+      "name": "Gabi Duncombe\nflower suspended in a large block of ice, minimalist, refractions of light, rainbow chromatic light leaks, gorgeous lighting, ",
+      "selector_pref": "[aria-label=\"flower suspended in a large block of ice, minimalist, refractions of light, rainbow chromatic light leaks, gorgeous lighting, studio environment — Gabi Duncombe\"]",
+      "bbox": {
+        "x": 222,
+        "y": 2285.08349609375,
+        "width": 273,
+        "height": 156
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "f03cfd23",
+      "role": "button",
+      "tag": "sp-action-button",
+      "name": "Like",
+      "selector_pref": "[aria-label=\"Like\"]",
+      "bbox": {
+        "x": 234,
+        "y": 2405.08349609375,
+        "width": 24,
+        "height": 24
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "38300284",
+      "role": "button",
+      "tag": "sp-button",
+      "name": "View",
+      "selector_pref": "[aria-label=\"View: \"]",
+      "bbox": {
+        "x": 429,
+        "y": 2405.08349609375,
+        "width": 54,
+        "height": 24
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "7d375b3b",
+      "role": null,
+      "tag": "article",
+      "name": "tiffany edwards\nA clean, glossy 3D object in shape of a speech bubble in soft white material, minimal and futuristic design. Set on a light ",
+      "selector_pref": "[aria-label=\"A clean, glossy 3D object in shape of a speech bubble in soft white material, minimal and futuristic design. Set on a light background with a gentle pastel gradient glow. The lighting is soft and ambient, with subtle shadows and smooth reflections. No hard edges or clutter. Elegant, calming, and high-tech—like a medical or dental environment in a near-future setting. — tiffany edwards\"]",
+      "bbox": {
+        "x": 511,
+        "y": 2285.08349609375,
+        "width": 273,
+        "height": 212
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "c0f0c437",
+      "role": null,
+      "tag": "article",
+      "name": "Wolfgang W.\nA bright colored translucent glass baby puppy with large expressive eyes, standing on a glossy white lake in a softly lit, minim",
+      "selector_pref": "[aria-label=\"A bright colored translucent glass baby puppy with large expressive eyes, standing on a glossy white lake in a softly lit, minimalist place. The creature has a smooth, luminous texture as if made of frosted glass and has a delicate flower with a green stem beside it. The style is dreamy, high-resolution digital illustration, combining cuteness with a surreal, reflective glassy finish. The atmosphere conveys warmth, innocence, and emotional softness.  — Wolfgang W.\"]",
+      "bbox": {
+        "x": 801,
+        "y": 2285.08349609375,
+        "width": 273,
+        "height": 156
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "3ab22aca",
+      "role": null,
+      "tag": "article",
+      "name": "Santi Pujol\nView",
+      "selector_pref": "[aria-label=\"Create a video of fish flying in a field on a distant planet with alien vegetation of many colors — Santi Pujol\"]",
+      "bbox": {
+        "x": 1090,
+        "y": 2285.08349609375,
+        "width": 273,
+        "height": 153
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "26295b31",
+      "role": null,
+      "tag": "article",
+      "name": "PP M\nView",
+      "selector_pref": "[aria-label=\"i'd like to create a looping video of a 2d flower icon illustration blossoming — PP M\"]",
+      "bbox": {
+        "x": 1090,
+        "y": 2456.08349609375,
+        "width": 273,
+        "height": 273
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "d1502acf",
+      "role": null,
+      "tag": "article",
+      "name": "Mine Creator\nA geometric cat made of triangles, low poly art style, clean vector lines, soft pastel colors, modern minimalist wallpaper, hig",
+      "selector_pref": "[aria-label=\"A geometric cat made of triangles, low poly art style, clean vector lines, soft pastel colors, modern minimalist wallpaper, high resolution, soft lighting, cutest — Mine Creator\"]",
+      "bbox": {
+        "x": 222,
+        "y": 2458.08349609375,
+        "width": 273,
+        "height": 212
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "953a8962",
+      "role": null,
+      "tag": "article",
+      "name": "Çağlar Doğan\nEditorial fashion photograph of a young redhead woman, cit , lit by hard key lights simulating a multi-flash setup, creating de",
+      "selector_pref": "[aria-label=\"Editorial fashion photograph of a young redhead woman, cit , lit by hard key lights simulating a multi-flash setup, creating defined edges and deep shadows, sharp focus, confident expression, high fashion aesthetic, ultra-detailed — Çağlar Doğan\"]",
+      "bbox": {
+        "x": 801,
+        "y": 2458.08349609375,
+        "width": 273,
+        "height": 486
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "bce044fa",
+      "role": null,
+      "tag": "article",
+      "name": "Tiberiu Prunes\nWhimsical children’s storybook illustration—crafted in mixed media with expressive inky brushstrokes, delicate bleach splatte",
+      "selector_pref": "[aria-label=\"Whimsical children’s storybook illustration—crafted in mixed media with expressive inky brushstrokes, delicate bleach splatters, and thick swirls of oil paint overlays. Imagine a fantastical nighttime adventure: a charming horse, pieced together from textured, antique newspaper clippings in a patchwork collage style, gallops playfully under a deep indigo sky. Perched confidently on the horse’s back, a fluffy, oversized black cat with enormous, glowing yellow eyes grins mischievously, its fur rendered in wild, inky strokes. Beside them, a vibrantly coral-hued bird, small and luminous, darts through the air, trailing sparks of color. The moon hangs as a slender, silver crescent among wispy clouds, casting soft glimmers over a shadowy field where abstract, jet-black wildflowers bloom—each petal textured with ink and subtle orange gradients, echoing the night’s magical embrace. The entire scene is suffused with a storybook charm; each detail invites curiosity and wonder. — Tiberiu Prunes\"]",
+      "bbox": {
+        "x": 511,
+        "y": 2515.08349609375,
+        "width": 273,
+        "height": 273
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "7761edf1",
+      "role": null,
+      "tag": "article",
+      "name": "Sk. Arif Hossain\nIntricate artistic portrait of a fashion-forward woman covered with shades of blue and majenta depicting natural beauty\nVie",
+      "selector_pref": "[aria-label=\"Intricate artistic portrait of a fashion-forward woman covered with shades of blue and majenta depicting natural beauty — Sk. Arif Hossain\"]",
+      "bbox": {
+        "x": 222,
+        "y": 2688.08349609375,
+        "width": 273,
+        "height": 352
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "b62dfaa9",
+      "role": null,
+      "tag": "article",
+      "name": "Angela Fisher\nsurreal, highly detailed, transparent glass cactus with flowers, grown in the desert, tall\nView",
+      "selector_pref": "[aria-label=\"surreal, highly detailed, transparent glass cactus with flowers, grown in the desert, tall — Angela Fisher\"]",
+      "bbox": {
+        "x": 1090,
+        "y": 2747.08349609375,
+        "width": 273,
+        "height": 273
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "8a3a7dd4",
+      "role": null,
+      "tag": "article",
+      "name": "Laura Mclean\nView",
+      "selector_pref": "[aria-label=\"A peaceful lake at dusk, with an illuminated path leading to a serene temple. The water is calm, reflecting the soft orange and pink hues of the setting sun. The path is lined with lanterns, casting a warm glow on the moss-covered stones. The temple, perched on a small hill, has intricate carvings and a peaceful aura. The background features dense green trees and a light mist, adding depth and tranquility. The camera remains steady, capturing the path and temple from a wide-angle perspective. The video has a naturalistic and ethereal style, emphasizing the serene and mystical atmosphere. — Laura Mclean\"]",
+      "bbox": {
+        "x": 511,
+        "y": 2805.08349609375,
+        "width": 273,
+        "height": 486
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "1ec08360",
+      "role": null,
+      "tag": "article",
+      "name": "Ramon Hernandez\nA Pisces, hyperrealistic paper quilling vivid colors\nView",
+      "selector_pref": "[aria-label=\"A Pisces, hyperrealistic paper quilling vivid colors — Ramon Hernandez\"]",
+      "bbox": {
+        "x": 801,
+        "y": 2962.08349609375,
+        "width": 273,
+        "height": 212
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "c0cfbc0a",
+      "role": null,
+      "tag": "article",
+      "name": "Tiberiu Prunes\nA surreal, hyper-realistic cityscape at dusk where towering skyscrapers appear to melt and flow like living wax, their forms ",
+      "selector_pref": "[aria-label=\"A surreal, hyper-realistic cityscape at dusk where towering skyscrapers appear to melt and flow like living wax, their forms distorting and dripping under the weight of vibrant neon lights. The buildings’ glossy surfaces ooze into luminous, reflective puddles that ripple across the streets, capturing the electric glow of the city. Rendered in modern digital photorealism, the scene features intricate, lifelike textures and a dramatic interplay of colored lighting, evoking a sense of motion and transformation as the architecture seems almost alive in its slow, mesmerizing dissolution. — Tiberiu Prunes\"]",
+      "bbox": {
+        "x": 1090,
+        "y": 3037.08349609375,
+        "width": 273,
+        "height": 212
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "071b0238",
+      "role": null,
+      "tag": "article",
+      "name": "shesadri bagchi\nView",
+      "selector_pref": "[aria-label=\"A glittering golden alligator swims gracefully in a glittering silver river within a dark forest at night. The alligator's scales shimmer in the moonlight, reflecting silver hues. The river flows calmly, surrounded by tall, shadowy trees with silhouetted branches. The background features a dense forest with a starry sky above, creating a mystical and enchanting atmosphere. The camera remains steady, focusing on the alligator as it moves through the river, with a slow, dreamy video speed to enhance the vivid and magical feel. The overall style is vibrant and ethereal, capturing the otherworldly beauty of this nocturnal scene. — shesadri bagchi\"]",
+      "bbox": {
+        "x": 222,
+        "y": 3057.08349609375,
+        "width": 273,
+        "height": 486
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "832ad015",
+      "role": null,
+      "tag": "article",
+      "name": "Deepu Nair\nportrait of a cat\nView",
+      "selector_pref": "[aria-label=\"portrait of a cat — Deepu Nair\"]",
+      "bbox": {
+        "x": 801,
+        "y": 3192.08349609375,
+        "width": 273,
+        "height": 352
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "66a308c4",
+      "role": null,
+      "tag": "article",
+      "name": "Vee\nCinematic extreme close-up portrait of a young woman in dramatic side lighting. Focus on her eye, skin texture, and delicate facial deta",
+      "selector_pref": "[aria-label=\"Cinematic extreme close-up portrait of a young woman in dramatic side lighting. Focus on her eye, skin texture, and delicate facial details. Soft fabric or abstract shapes drift across part of her face, adding depth and mystery. Vivid neon blue, magenta, and golden light create bold highlights and deep shadows, giving a high-contrast, moody, editorial photography vibe with a surreal edge. --ar 51:91\n — Vee\"]",
+      "bbox": {
+        "x": 1090,
+        "y": 3267.08349609375,
+        "width": 273,
+        "height": 212
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "a0d341d5",
+      "role": null,
+      "tag": "article",
+      "name": "Rama murty Nilapu\nA peacock, hyperrealistic paper quilling vivid colors\nView",
+      "selector_pref": "[aria-label=\"A peacock, hyperrealistic paper quilling vivid colors — Rama murty Nilapu\"]",
+      "bbox": {
+        "x": 511,
+        "y": 3309.08349609375,
+        "width": 273,
+        "height": 212
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "33f9c7d5",
+      "role": null,
+      "tag": "article",
+      "name": "Sk. Arif Hossain\nA soft pastel depiction of a curled-up sleeping cat as a soap sculpture, with delicate edges, smooth matte surfaces, and ha",
+      "selector_pref": "[aria-label=\"A soft pastel depiction of a curled-up sleeping cat as a soap sculpture, with delicate edges, smooth matte surfaces, and hand-carved whimsy. Colors are gentle and translucent, adding a fragile charm —portrait frame —style whimsical —medium sculpture render —lighting soft and diffused — Sk. Arif Hossain\"]",
+      "bbox": {
+        "x": 1090,
+        "y": 3497.08349609375,
+        "width": 273,
+        "height": 352
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "1f9d1391",
+      "role": null,
+      "tag": "article",
+      "name": "Carol Parker\nView",
+      "selector_pref": "[aria-label=\"An origami corgi head portrait — Carol Parker\"]",
+      "bbox": {
+        "x": 511,
+        "y": 3539.08349609375,
+        "width": 273,
+        "height": 486
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "52844b52",
+      "role": null,
+      "tag": "article",
+      "name": "Victorin Ontchya areno\nChrome metal torus with gravitationally impossible liquid flow, glass sphere suspended in central void, mirror-polish",
+      "selector_pref": "[aria-label=\"Chrome metal torus with gravitationally impossible liquid flow, glass sphere suspended in central void, mirror-polished texture under three-point studio lighting creating complex reflections, centered composition against gradient background, product visualization style, 8K rendering with ray-traced reflections — Victorin Ontchya areno\"]",
+      "bbox": {
+        "x": 222,
+        "y": 3561.08349609375,
+        "width": 273,
+        "height": 212
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "716613fc",
+      "role": null,
+      "tag": "article",
+      "name": "Edward Ramirez\nA PARROT made of PEPPERMINT SWIRL CANDY material. White background.\nView",
+      "selector_pref": "[aria-label=\"A PARROT made of PEPPERMINT SWIRL CANDY material. White background. — Edward Ramirez\"]",
+      "bbox": {
+        "x": 801,
+        "y": 3561.08349609375,
+        "width": 273,
+        "height": 352
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "01cb2da2",
+      "role": "button",
+      "tag": "sp-button",
+      "name": "View full gallery",
+      "selector_pref": "[aria-label=\"View full gallery\"]",
+      "bbox": {
+        "x": 717.7291870117188,
+        "y": 3467.48974609375,
+        "width": 149.20834350585938,
+        "height": 40
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "f1620a13",
+      "role": null,
+      "tag": "a",
+      "name": "https://www.adobe.com/go/thirdparty",
+      "selector_pref": "a[href=\"https://www.adobe.com/go/thirdparty\"]",
+      "bbox": {
+        "x": 576.6979370117188,
+        "y": 3644.39599609375,
+        "width": 171.6666717529297,
+        "height": 14
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "3dacf169",
+      "role": null,
+      "tag": "a",
+      "name": "",
+      "selector_pref": "a[href=\"/\"]",
+      "bbox": {
+        "x": 196,
+        "y": 3687.375,
+        "width": 81.47917175292969,
+        "height": 16
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "7b7f3491",
+      "role": null,
+      "tag": "a",
+      "name": "Terms of Use",
+      "selector_pref": "a[href=\"https://www.adobe.com/legal/terms.html\"]",
+      "bbox": {
+        "x": 309.47918701171875,
+        "y": 3689.05224609375,
+        "width": 57.03125,
+        "height": 12.645833969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "b7b1482a",
+      "role": null,
+      "tag": "a",
+      "name": "Privacy Policy",
+      "selector_pref": "a[href=\"https://www.adobe.com/privacy/policy.html\"]",
+      "bbox": {
+        "x": 382.51043701171875,
+        "y": 3689.05224609375,
+        "width": 61.40625,
+        "height": 12.645833969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "3affca97",
+      "role": null,
+      "tag": "a",
+      "name": "Cookie Preferences",
+      "selector_pref": "a[href=\"/\"]",
+      "bbox": {
+        "x": 459.91668701171875,
+        "y": 3689.05224609375,
+        "width": 85.39583587646484,
+        "height": 12.645833969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "efe984e7",
+      "role": null,
+      "tag": "a",
+      "name": "Do not sell or share my personal information",
+      "selector_pref": "a[href=\"https://www.adobe.com/privacy/us-rights.html\"]",
+      "bbox": {
+        "x": 561.3125,
+        "y": 3689.05224609375,
+        "width": 199.2604217529297,
+        "height": 12.645833969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "b242556b",
+      "role": null,
+      "tag": "a",
+      "name": "Try the industry's top models, from Google, OpenAi ... and more, to create standout content",
+      "selector_pref": "a[href=\"/generate/image\"]",
+      "bbox": {
+        "x": 523.7916870117188,
+        "y": 866.28125,
+        "width": 536.0833740234375,
+        "height": 17.33333396911621
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "4d0b77a1",
+      "role": "button",
+      "tag": "sp-action-button",
+      "name": "Close",
+      "selector_pref": "[aria-label=\"Close\"]",
+      "bbox": {
+        "x": 1373.666748046875,
+        "y": 859,
+        "width": 32,
+        "height": 32
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-196",
+      "role": "link",
+      "tag": null,
+      "name": "Files",
+      "selector_pref": "aria://link::Files",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-205",
+      "role": "link",
+      "tag": null,
+      "name": "Gallery",
+      "selector_pref": "aria://link::Gallery",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-214",
+      "role": "link",
+      "tag": null,
+      "name": "Resources",
+      "selector_pref": "aria://link::Resources",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    }
+  ]
+}

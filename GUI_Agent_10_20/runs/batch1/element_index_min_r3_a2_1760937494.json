@@ -1,0 +1,263 @@
+{
+  "meta": {
+    "url": "https://auth.services.adobe.com/en_US/index.html?callback=https%3A%2F%2Fims-na1.adobelogin.com%2Fims%2Fadobeid%2Fprojectx_webapp%2FAdobeID%2Ftoken%3Fredirect_uri%3Dhttps%253A%252F%252Fnew.express.adobe.com%252F%253Fpostlogin%253Dtrue%2523old_hash%253Dotp%253D621191864%2526from_ims%253Dtrue%2526client_id%253Dprojectx_webapp%2526api%253Dauthorize%2526scope%253Dab.manage%252CAdobeID%252Copenid%252Cread_organizations%252Ccreative_cloud%252Ccreative_sdk%252Ctk_platform%252Ctk_platform_sync%252Caf_byof%252Cstk.a.license_skip.r%252Cstk.a.limited_license.cru%252Cadditional_info.optionalAgreements%252Cuds_read%252Cuds_write%252Caf_ltd_projectx%252Cunified_dev_portal%252Cadditional_info.ownerOrg%252Cadditional_info.roles%252Cadditional_info.roles%252CDCAPI%252Cadditional_info.auth_source%252Cadditional_info.authenticatingAccount%252Cpps.write%252Cpps.delete%252Cpps.image_write%252Ctk_platform_grant_free_subscription%252Cpps.read%252Cfirefly_api%252Cadditional_info.projectedProductContext%252Cadobeio.appregistry.read%252Cadobeio.appregistry.write%252Caccount_cluster.read%252Cindesign_services%252Ceduprofile.write%252Ceduprofile.read%26state%3D%257B%2522jslibver%2522%253A%2522v2-v0.48.0-1-g1e322cb%2522%252C%2522nonce%2522%253A%25222894329454296045%2522%257D%26code_challenge_method%3Dplain%26use_ms_for_expiry%3Dtrue&client_id=projectx_webapp&scope=ab.manage%2CAdobeID%2Copenid%2Cread_organizations%2Ccreative_cloud%2Ccreative_sdk%2Ctk_platform%2Ctk_platform_sync%2Caf_byof%2Cstk.a.license_skip.r%2Cstk.a.limited_license.cru%2Cadditional_info.optionalAgreements%2Cuds_read%2Cuds_write%2Caf_ltd_projectx%2Cunified_dev_portal%2Cadditional_info.ownerOrg%2Cadditional_info.roles%2CDCAPI%2Cadditional_info.auth_source%2Cadditional_info.authenticatingAccount%2Cpps.write%2Cpps.delete%2Cpps.image_write%2Ctk_platform_grant_free_subscription%2Cpps.read%2Cfirefly_api%2Cadditional_info.projectedProductContext%2Cadobeio.appregistry.read%2Cadobeio.appregistry.write%2Caccount_cluster.read%2Cindesign_services%2Ceduprofile.write%2Ceduprofile.read&state=%7B%22jslibver%22%3A%22v2-v0.48.0-1-g1e322cb%22%2C%22nonce%22%3A%222894329454296045%22%7D&relay=365718b3-2874-452f-b334-5b2d069f0f9d&locale=en_US&flow_type=token&dctx_id=v%3A2%2Cs%2Cdcp-r%2Cbg%3Aexpress2024%2C45faecb0-e687-11ee-a865-f545a8ca5d2c&idp_flow_type=login&ab_test=t1-code-login%2Ccomplete-account-new-design%2Cremove-default-month%7Ct1-code-login-ref%2Ccomplete-account-new-design%2Cremove-default-month&s_p=google%2Cfacebook%2Capple%2Cmicrosoft%2Cline%2Ckakao&response_type=token&code_challenge_method=plain&redirect_uri=https%3A%2F%2Fnew.express.adobe.com%2F%3Fpostlogin%3Dtrue%23old_hash%3Dotp%3D621191864%26from_ims%3Dtrue%26client_id%3Dprojectx_webapp%26api%3Dauthorize%26scope%3Dab.manage%2CAdobeID%2Copenid%2Cread_organizations%2Ccreative_cloud%2Ccreative_sdk%2Ctk_platform%2Ctk_platform_sync%2Caf_byof%2Cstk.a.license_skip.r%2Cstk.a.limited_license.cru%2Cadditional_info.optionalAgreements%2Cuds_read%2Cuds_write%2Caf_ltd_projectx%2Cunified_dev_portal%2Cadditional_info.ownerOrg%2Cadditional_info.roles%2Cadditional_info.roles%2CDCAPI%2Cadditional_info.auth_source%2Cadditional_info.authenticatingAccount%2Cpps.write%2Cpps.delete%2Cpps.image_write%2Ctk_platform_grant_free_subscription%2Cpps.read%2Cfirefly_api%2Cadditional_info.projectedProductContext%2Cadobeio.appregistry.read%2Cadobeio.appregistry.write%2Caccount_cluster.read%2Cindesign_services%2Ceduprofile.write%2Ceduprofile.read&use_ms_for_expiry=true#/challenge/mfa/code",
+    "timestamp": 1760937494,
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "screenshot": "screenshot_r3_a2_1760937494.png"
+  },
+  "elements_min": [
+    {
+      "uid": "34b3e459",
+      "role": "img",
+      "tag": "svg",
+      "name": "Information",
+      "selector_pref": "[aria-label=\"Information\"]",
+      "bbox": {
+        "x": 203.6666717529297,
+        "y": 103.16667175292969,
+        "width": 18,
+        "height": 18
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ade95329",
+      "role": "InlineTextBox",
+      "tag": "a",
+      "name": "Get Help",
+      "selector_pref": "a[href=\"https://helpx.adobe.com/x-productkb/global/2-step-verification-account-security.linkfree.html\"]",
+      "bbox": {
+        "x": 271.53125,
+        "y": 113.5,
+        "width": 49.989585876464844,
+        "height": 17.33333396911621
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "0f8c19d5",
+      "role": null,
+      "tag": "button",
+      "name": "×",
+      "selector_pref": "[aria-label=\"Close\"]",
+      "bbox": {
+        "x": 657.6666870117188,
+        "y": 91.16667175292969,
+        "width": 32,
+        "height": 32
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "e131a26c",
+      "role": "spinbutton",
+      "tag": "input",
+      "name": "Digit 1",
+      "selector_pref": "[aria-label=\"Digit 1\"]",
+      "bbox": {
+        "x": 248.33334350585938,
+        "y": 411.8333435058594,
+        "width": 52.770835876464844,
+        "height": 72
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "fcd5f908",
+      "role": "InlineTextBox",
+      "tag": "input",
+      "name": "Digit 2",
+      "selector_pref": "[aria-label=\"Digit 2\"]",
+      "bbox": {
+        "x": 317.10418701171875,
+        "y": 411.8333435058594,
+        "width": 52.770835876464844,
+        "height": 72
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "eee568f2",
+      "role": "spinbutton",
+      "tag": "input",
+      "name": "Digit 3",
+      "selector_pref": "[aria-label=\"Digit 3\"]",
+      "bbox": {
+        "x": 385.875,
+        "y": 411.8333435058594,
+        "width": 52.770835876464844,
+        "height": 72
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "0b0d1a83",
+      "role": "spinbutton",
+      "tag": "input",
+      "name": "Digit 4",
+      "selector_pref": "[aria-label=\"Digit 4\"]",
+      "bbox": {
+        "x": 454.6458435058594,
+        "y": 411.8333435058594,
+        "width": 52.770835876464844,
+        "height": 72
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "9aff441f",
+      "role": "spinbutton",
+      "tag": "input",
+      "name": "Digit 5",
+      "selector_pref": "[aria-label=\"Digit 5\"]",
+      "bbox": {
+        "x": 523.4166870117188,
+        "y": 411.8333435058594,
+        "width": 52.770835876464844,
+        "height": 72
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "2737abec",
+      "role": "spinbutton",
+      "tag": "input",
+      "name": "Digit 6",
+      "selector_pref": "[aria-label=\"Digit 6\"]",
+      "bbox": {
+        "x": 592.1875,
+        "y": 411.8333435058594,
+        "width": 52.770835876464844,
+        "height": 72
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "e8282885",
+      "role": null,
+      "tag": "button",
+      "name": "Resend Code",
+      "selector_pref": "button#react-aria-129",
+      "bbox": {
+        "x": 536.4583740234375,
+        "y": 527.8333740234375,
+        "width": 108.54167175292969,
+        "height": 32
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "a08fd340",
+      "role": "link",
+      "tag": "span",
+      "name": "Use another method to receive the code",
+      "selector_pref": "div#App > div:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > footer:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > span:nth-of-type(1)",
+      "bbox": {
+        "x": 248.33334350585938,
+        "y": 605.8333740234375,
+        "width": 228.0104217529297,
+        "height": 17.33333396911621
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ea222c6b",
+      "role": "link",
+      "tag": "span",
+      "name": "Sign in to a different account",
+      "selector_pref": "div#App > div:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > footer:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > span:nth-of-type(1)",
+      "bbox": {
+        "x": 248.33334350585938,
+        "y": 650.8333740234375,
+        "width": 161.5,
+        "height": 17.33333396911621
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "86652ef9",
+      "role": "button",
+      "tag": "button",
+      "name": "Contact us",
+      "selector_pref": "[aria-label=\"Contact us\"]",
+      "bbox": {
+        "x": 1340,
+        "y": 780,
+        "width": 60,
+        "height": 60
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "60f457a4",
+      "role": null,
+      "tag": "a",
+      "name": "Terms of Use",
+      "selector_pref": "a[href=\"https://www.adobe.com/legal/terms-linkfree.html\"]",
+      "bbox": {
+        "x": 817.6875,
+        "y": 867,
+        "width": 105.25,
+        "height": 21
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "63ecf6ec",
+      "role": null,
+      "tag": "a",
+      "name": "Privacy",
+      "selector_pref": "a[href=\"https://www.adobe.com/go/privacy_policy_linkfree_en\"]",
+      "bbox": {
+        "x": 1064.21875,
+        "y": 867,
+        "width": 73.51042175292969,
+        "height": 21
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "7681918c",
+      "role": null,
+      "tag": "a",
+      "name": "Do not sell or share my personal information",
+      "selector_pref": "a[href=\"https://www.adobe.com/privacy/us-rights-linkfree.html\"]",
+      "bbox": {
+        "x": 1137.729248046875,
+        "y": 867,
+        "width": 286.2708435058594,
+        "height": 21
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-55",
+      "role": "button",
+      "tag": null,
+      "name": "Close",
+      "selector_pref": "aria://button::Close",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    }
+  ]
+}

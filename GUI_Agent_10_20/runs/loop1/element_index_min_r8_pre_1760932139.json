@@ -1,0 +1,1363 @@
+{
+  "meta": {
+    "url": "https://new.express.adobe.com/search",
+    "timestamp": 1760932139,
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "screenshot": "screenshot_r8_pre_1760932139.png"
+  },
+  "elements_min": [
+    {
+      "uid": "ax-25",
+      "role": "button",
+      "tag": null,
+      "name": "Apps switcher",
+      "selector_pref": "aria://button::Apps switcher",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-29",
+      "role": "button",
+      "tag": null,
+      "name": "Adobe Home",
+      "selector_pref": "aria://button::Adobe Home",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-35",
+      "role": "button",
+      "tag": null,
+      "name": "Firefly",
+      "selector_pref": "aria://button::Firefly",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-41",
+      "role": "button",
+      "tag": null,
+      "name": "Express",
+      "selector_pref": "aria://button::Express",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-47",
+      "role": "button",
+      "tag": null,
+      "name": "Photoshop",
+      "selector_pref": "aria://button::Photoshop",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-53",
+      "role": "button",
+      "tag": null,
+      "name": "Lightroom",
+      "selector_pref": "aria://button::Lightroom",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-59",
+      "role": "button",
+      "tag": null,
+      "name": "Acrobat",
+      "selector_pref": "aria://button::Acrobat",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-65",
+      "role": "button",
+      "tag": null,
+      "name": "Fonts",
+      "selector_pref": "aria://button::Fonts",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-83",
+      "role": "link",
+      "tag": null,
+      "name": "Adobe Express",
+      "selector_pref": "aria://link::Adobe Express",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-106",
+      "role": "textbox",
+      "tag": null,
+      "name": "Search for templates and more",
+      "selector_pref": "aria://textbox::Search for templates and more",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-114",
+      "role": "button",
+      "tag": null,
+      "name": "Clear",
+      "selector_pref": "aria://button::Clear",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-122",
+      "role": "button",
+      "tag": null,
+      "name": "Start free trial",
+      "selector_pref": "aria://button::Start free trial",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-150",
+      "role": "button",
+      "tag": null,
+      "name": "Submit feedback",
+      "selector_pref": "aria://button::Submit feedback",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-159",
+      "role": "button",
+      "tag": null,
+      "name": "Help",
+      "selector_pref": "aria://button::Help",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-170",
+      "role": "button",
+      "tag": null,
+      "name": "Notifications",
+      "selector_pref": "aria://button::Notifications",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-189",
+      "role": "button",
+      "tag": null,
+      "name": "Account",
+      "selector_pref": "aria://button::Account",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-233",
+      "role": "button",
+      "tag": null,
+      "name": "Create new",
+      "selector_pref": "aria://button::Create new",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-245",
+      "role": "button",
+      "tag": null,
+      "name": "Home",
+      "selector_pref": "aria://button::Home",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-258",
+      "role": "button",
+      "tag": null,
+      "name": "Your stuff",
+      "selector_pref": "aria://button::Your stuff",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-271",
+      "role": "button",
+      "tag": null,
+      "name": "Brands",
+      "selector_pref": "aria://button::Brands",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-313",
+      "role": "button",
+      "tag": null,
+      "name": "Templates",
+      "selector_pref": "aria://button::Templates",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-326",
+      "role": "button",
+      "tag": null,
+      "name": "Schedule",
+      "selector_pref": "aria://button::Schedule",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-339",
+      "role": "button",
+      "tag": null,
+      "name": "Learn",
+      "selector_pref": "aria://button::Learn",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-352",
+      "role": "button",
+      "tag": null,
+      "name": "Add-ons",
+      "selector_pref": "aria://button::Add-ons",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-392",
+      "role": "button",
+      "tag": null,
+      "name": "View all",
+      "selector_pref": "aria://button::View all",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-406",
+      "role": "button",
+      "tag": null,
+      "name": "Blue and Orange NWSL Instagram Story",
+      "selector_pref": "aria://button::Blue and Orange NWSL Instagram Story",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-414",
+      "role": "button",
+      "tag": null,
+      "name": "Animated",
+      "selector_pref": "aria://button::Animated",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-431",
+      "role": "button",
+      "tag": null,
+      "name": "White Text Run Club Video Instagram Carousel",
+      "selector_pref": "aria://button::White Text Run Club Video Instagram Carousel",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-439",
+      "role": "button",
+      "tag": null,
+      "name": "Video",
+      "selector_pref": "aria://button::Video",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-456",
+      "role": "button",
+      "tag": null,
+      "name": "Blue and Blue Instagram Story",
+      "selector_pref": "aria://button::Blue and Blue Instagram Story",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-464",
+      "role": "button",
+      "tag": null,
+      "name": "Blue and Orange Annual Social Media Report",
+      "selector_pref": "aria://button::Blue and Orange Annual Social Media Report",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-479",
+      "role": "button",
+      "tag": null,
+      "name": "Multiple pages",
+      "selector_pref": "aria://button::Multiple pages",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-492",
+      "role": "button",
+      "tag": null,
+      "name": "Premium Content Badge",
+      "selector_pref": "aria://button::Premium Content Badge",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-506",
+      "role": "button",
+      "tag": null,
+      "name": "Elegant Floral Day of the Dead Instagram Square",
+      "selector_pref": "aria://button::Elegant Floral Day of the Dead Instagram Square",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-514",
+      "role": "button",
+      "tag": null,
+      "name": "Playful and Fun Ice Cream Truck T-Shirt",
+      "selector_pref": "aria://button::Playful and Fun Ice Cream Truck T-Shirt",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-543",
+      "role": "button",
+      "tag": null,
+      "name": "Black and Orange Halloween Decor TikTok Ad",
+      "selector_pref": "aria://button::Black and Orange Halloween Decor TikTok Ad",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-581",
+      "role": "button",
+      "tag": null,
+      "name": "Pink and Green Road Trip Snacks Instagram Story",
+      "selector_pref": "aria://button::Pink and Green Road Trip Snacks Instagram Story",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-603",
+      "role": "button",
+      "tag": null,
+      "name": "Black and Purple Golden State Valkyries Basketball Fan Phone Wallpaper",
+      "selector_pref": "aria://button::Black and Purple Golden State Valkyries Basketball Fan Phone Wallpaper",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-612",
+      "role": "button",
+      "tag": null,
+      "name": "Pink and Brown Breast Cancer Awareness Month Instagram Reel",
+      "selector_pref": "aria://button::Pink and Brown Breast Cancer Awareness Month Instagram Reel",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-637",
+      "role": "button",
+      "tag": null,
+      "name": "Warm Brown and White Autumn Fashion Instagram Ad",
+      "selector_pref": "aria://button::Warm Brown and White Autumn Fashion Instagram Ad",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-646",
+      "role": "button",
+      "tag": null,
+      "name": "Yellow and Navy NWSL Instagram Story",
+      "selector_pref": "aria://button::Yellow and Navy NWSL Instagram Story",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-671",
+      "role": "button",
+      "tag": null,
+      "name": "Bright Orange and Yellow Fashion Instagram Ad",
+      "selector_pref": "aria://button::Bright Orange and Yellow Fashion Instagram Ad",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-679",
+      "role": "button",
+      "tag": null,
+      "name": "Woodsy and Atmospheric Perfume Instagram Carousel",
+      "selector_pref": "aria://button::Woodsy and Atmospheric Perfume Instagram Carousel",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-708",
+      "role": "button",
+      "tag": null,
+      "name": "Colorful Workout Instagram Reel",
+      "selector_pref": "aria://button::Colorful Workout Instagram Reel",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-756",
+      "role": "button",
+      "tag": null,
+      "name": "navy blue blank t shirt template from two sides isolated on transparent white background, clipping path",
+      "selector_pref": "aria://button::navy blue blank t shirt template from two sides isolated on transparent white background, clipping path",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-764",
+      "role": "button",
+      "tag": null,
+      "name": "Generated with AI",
+      "selector_pref": "aria://button::Generated with AI",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-779",
+      "role": "button",
+      "tag": null,
+      "name": "Healthy hummus dip accompanied by colorful vegetable sticks, isolated transparent background.",
+      "selector_pref": "aria://button::Healthy hummus dip accompanied by colorful vegetable sticks, isolated transparent background.",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-789",
+      "role": "button",
+      "tag": null,
+      "name": "Schieferwand 2",
+      "selector_pref": "aria://button::Schieferwand 2",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-812",
+      "role": "button",
+      "tag": null,
+      "name": "Red shiny ribbon on white isolated background",
+      "selector_pref": "aria://button::Red shiny ribbon on white isolated background",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-822",
+      "role": "button",
+      "tag": null,
+      "name": "Dark smoke swirling with transparent background. Transparent background",
+      "selector_pref": "aria://button::Dark smoke swirling with transparent background. Transparent background",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-845",
+      "role": "button",
+      "tag": null,
+      "name": "Weeping bottlebrush isolated on transparent background.PNG Set of",
+      "selector_pref": "aria://button::Weeping bottlebrush isolated on transparent background.PNG Set of",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-868",
+      "role": "button",
+      "tag": null,
+      "name": "Medical portrait of healthcare professional without background",
+      "selector_pref": "aria://button::Medical portrait of healthcare professional without background",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-891",
+      "role": "button",
+      "tag": null,
+      "name": "Expressive graffiti piece blending raw street art elements with bold line patterns isolated on white background PNG",
+      "selector_pref": "aria://button::Expressive graffiti piece blending raw street art elements with bold line patterns isolated on white background PNG",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-913",
+      "role": "button",
+      "tag": null,
+      "name": "Ornate blue picture frame with intricate detailing, cut out transparent",
+      "selector_pref": "aria://button::Ornate blue picture frame with intricate detailing, cut out transparent",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-935",
+      "role": "button",
+      "tag": null,
+      "name": "Metall-Textur",
+      "selector_pref": "aria://button::Metall-Textur",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-957",
+      "role": "button",
+      "tag": null,
+      "name": "White paper texture.",
+      "selector_pref": "aria://button::White paper texture.",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-979",
+      "role": "button",
+      "tag": null,
+      "name": "Playful grandfather spending time with his grandson in park on sunny day",
+      "selector_pref": "aria://button::Playful grandfather spending time with his grandson in park on sunny day",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1001",
+      "role": "button",
+      "tag": null,
+      "name": "Number 5 in gold glitter isolated on a white background, cut out",
+      "selector_pref": "aria://button::Number 5 in gold glitter isolated on a white background, cut out",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1023",
+      "role": "button",
+      "tag": null,
+      "name": "Hand of young supportive man consoling his friend or one of attendants with post traumatic syndrome caused by dramatic life event",
+      "selector_pref": "aria://button::Hand of young supportive man consoling his friend or one of attendants with post traumatic syndrome caused by dramatic life event",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1045",
+      "role": "button",
+      "tag": null,
+      "name": "Antique treasure map with detailed illustrations. transparent background",
+      "selector_pref": "aria://button::Antique treasure map with detailed illustrations. transparent background",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1090",
+      "role": "button",
+      "tag": null,
+      "name": "water of lake",
+      "selector_pref": "aria://button::water of lake",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1102",
+      "role": "button",
+      "tag": null,
+      "name": "Lonely man standing on a wild beach in Algarve, Portugal",
+      "selector_pref": "aria://button::Lonely man standing on a wild beach in Algarve, Portugal",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1114",
+      "role": "button",
+      "tag": null,
+      "name": "Raging fire vertical motion graphics with plain black background",
+      "selector_pref": "aria://button::Raging fire vertical motion graphics with plain black background",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1126",
+      "role": "button",
+      "tag": null,
+      "name": "Animation of digital data moving on back background",
+      "selector_pref": "aria://button::Animation of digital data moving on back background",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1151",
+      "role": "button",
+      "tag": null,
+      "name": "Animation Loop of grunge motion vertical line. grunge black and white noise texture animation in stop motion effect on white frame backgroun",
+      "selector_pref": "aria://button::Animation Loop of grunge motion vertical line. grunge black and white noise texture animation in stop motion effect on white frame background.",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1163",
+      "role": "button",
+      "tag": null,
+      "name": "Close-up of a fresh homemade pizza with cheese melting from oven Heat. Selective focus and vertical video",
+      "selector_pref": "aria://button::Close-up of a fresh homemade pizza with cheese melting from oven Heat. Selective focus and vertical video",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1175",
+      "role": "button",
+      "tag": null,
+      "name": "Medium shot of black businessman in suit walking towards male and female business partners and exchanging handshake in greeting before Panor",
+      "selector_pref": "aria://button::Medium shot of black businessman in suit walking towards male and female business partners and exchanging handshake in greeting before Panoramic windows on sunny day",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1200",
+      "role": "button",
+      "tag": null,
+      "name": "The names of the languages of the peoples of the world in their languages on a black background move chaotically. Cg",
+      "selector_pref": "aria://button::The names of the languages of the peoples of the world in their languages on a black background move chaotically. Cg",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1212",
+      "role": "button",
+      "tag": null,
+      "name": "A turtle swimming in the ocean. The water is clear and blue. The turtle is the main focus of the image",
+      "selector_pref": "aria://button::A turtle swimming in the ocean. The water is clear and blue. The turtle is the main focus of the image",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1224",
+      "role": "button",
+      "tag": null,
+      "name": "Abstract Blurred Magenta Blue Orange Soft Gradient Cycle Slow Motion Background Loop",
+      "selector_pref": "aria://button::Abstract Blurred Magenta Blue Orange Soft Gradient Cycle Slow Motion Background Loop",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1249",
+      "role": "button",
+      "tag": null,
+      "name": "Abstract futuristic communication neon low poly motion background",
+      "selector_pref": "aria://button::Abstract futuristic communication neon low poly motion background",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1274",
+      "role": "button",
+      "tag": null,
+      "name": "Slow motion 4k footage of a fit middle aged Caucasian woman during gym workout. Front deltoid workout with dumbbells. Physical education as ",
+      "selector_pref": "aria://button::Slow motion 4k footage of a fit middle aged Caucasian woman during gym workout. Front deltoid workout with dumbbells. Physical education as a norm of life to maintain health. Vertical video.",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1286",
+      "role": "button",
+      "tag": null,
+      "name": "retro cartoon animation of head bang guitarist",
+      "selector_pref": "aria://button::retro cartoon animation of head bang guitarist",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1298",
+      "role": "button",
+      "tag": null,
+      "name": "vertical shot. Female legs close-up. side view. A woman in a flowing dress stands on the shore, leaving footprints on the sand and reflectio",
+      "selector_pref": "aria://button::vertical shot. Female legs close-up. side view. A woman in a flowing dress stands on the shore, leaving footprints on the sand and reflections in the water. sunset on the beach. enjoying the walk.",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1310",
+      "role": "button",
+      "tag": null,
+      "name": "Beautiful calm Ocean waves landscape at sunrise on the beach in cancun Mexico",
+      "selector_pref": "aria://button::Beautiful calm Ocean waves landscape at sunrise on the beach in cancun Mexico",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1345",
+      "role": "button",
+      "tag": null,
+      "name": "Modern minimalist kitchen with white and wood cabinets. 3D Rendering",
+      "selector_pref": "aria://button::Modern minimalist kitchen with white and wood cabinets. 3D Rendering",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1354",
+      "role": "button",
+      "tag": null,
+      "name": "Cozy home living room interior with sofa and coffee table, window. Mockup wall",
+      "selector_pref": "aria://button::Cozy home living room interior with sofa and coffee table, window. Mockup wall",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1363",
+      "role": "button",
+      "tag": null,
+      "name": "Crowd of people. Men and women of different nationalities, cultures and ethnic groups stand side by side. Equality and tolerance, internatio",
+      "selector_pref": "aria://button::Crowd of people. Men and women of different nationalities, cultures and ethnic groups stand side by side. Equality and tolerance, international communication. Cartoon flat vector illustration",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1372",
+      "role": "button",
+      "tag": null,
+      "name": "young man long hair and colorful clothing happy with the internet",
+      "selector_pref": "aria://button::young man long hair and colorful clothing happy with the internet",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1381",
+      "role": "button",
+      "tag": null,
+      "name": "Eid al-fitr illustration with golden dome mosque, and lighting moon and star",
+      "selector_pref": "aria://button::Eid al-fitr illustration with golden dome mosque, and lighting moon and star",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1390",
+      "role": "button",
+      "tag": null,
+      "name": "blue color pattern gradient grunge texture background. Dots pop art comics sport style vector illustration Abstract background dark blue wit",
+      "selector_pref": "aria://button::blue color pattern gradient grunge texture background. Dots pop art comics sport style vector illustration Abstract background dark blue with modern corporate concept",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1412",
+      "role": "button",
+      "tag": null,
+      "name": "Modern office interior with blank poster mockup on blue wall for advertising or design presentation concept in clean bright workspace.. 3D R",
+      "selector_pref": "aria://button::Modern office interior with blank poster mockup on blue wall for advertising or design presentation concept in clean bright workspace.. 3D Rendering",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1421",
+      "role": "button",
+      "tag": null,
+      "name": "Social media communication concept with speech bubbles, hearts, and paper planes on a wavy blue structure. Futuristic digital interaction de",
+      "selector_pref": "aria://button::Social media communication concept with speech bubbles, hearts, and paper planes on a wavy blue structure. Futuristic digital interaction design. 3D Rendering",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1430",
+      "role": "button",
+      "tag": null,
+      "name": "Seamless pattern floral with red rose flowers abstract background.Vector illustration watercolor hand drawning.For fabric pattern print desi",
+      "selector_pref": "aria://button::Seamless pattern floral with red rose flowers abstract background.Vector illustration watercolor hand drawning.For fabric pattern print design.",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1439",
+      "role": "button",
+      "tag": null,
+      "name": "A deep gradient with rich navy blue tones and a subtle grainy texture, creating an elegant and modern design for backgrounds and wallpapers",
+      "selector_pref": "aria://button::A deep gradient with rich navy blue tones and a subtle grainy texture, creating an elegant and modern design for backgrounds and wallpapers",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1461",
+      "role": "button",
+      "tag": null,
+      "name": "Cloud computing technology icons over cityscape with blue digital theme showing data synchronization, security, and network infrastructure c",
+      "selector_pref": "aria://button::Cloud computing technology icons over cityscape with blue digital theme showing data synchronization, security, and network infrastructure concepts.",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1470",
+      "role": "button",
+      "tag": null,
+      "name": "White and green laundry room interior",
+      "selector_pref": "aria://button::White and green laundry room interior",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1479",
+      "role": "button",
+      "tag": null,
+      "name": "Stylish home kitchen interior with washbasin and stove, light grey shelves",
+      "selector_pref": "aria://button::Stylish home kitchen interior with washbasin and stove, light grey shelves",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1488",
+      "role": "button",
+      "tag": null,
+      "name": "Open space or modern living room with grey sofa, black velvet pouf, decorative pillows, concrete floor. Empty white frame on wall for art or",
+      "selector_pref": "aria://button::Open space or modern living room with grey sofa, black velvet pouf, decorative pillows, concrete floor. Empty white frame on wall for art or product presentation, exhibition, mockup frame. 3d renderng",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1497",
+      "role": "button",
+      "tag": null,
+      "name": "Spring landscape with trees, mountains, fields, bushes, flowers, fir trees. Vector illustration in flat style",
+      "selector_pref": "aria://button::Spring landscape with trees, mountains, fields, bushes, flowers, fir trees. Vector illustration in flat style",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1529",
+      "role": "button",
+      "tag": null,
+      "name": "Black transparent gradient shadow for design",
+      "selector_pref": "aria://button::Black transparent gradient shadow for design",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1552",
+      "role": "button",
+      "tag": null,
+      "name": "blue abstract light leak overlay",
+      "selector_pref": "aria://button::blue abstract light leak overlay",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1562",
+      "role": "button",
+      "tag": null,
+      "name": "website icon for illustration",
+      "selector_pref": "aria://button::website icon for illustration",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1585",
+      "role": "button",
+      "tag": null,
+      "name": "Beige,Gold podium isolated on white background,illustation Pink 3d stage stand for product, cosmetic presentation.Element Mockup empty Peach",
+      "selector_pref": "aria://button::Beige,Gold podium isolated on white background,illustation Pink 3d stage stand for product, cosmetic presentation.Element Mockup empty Peach pedestal display platform for beauty stand",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1595",
+      "role": "button",
+      "tag": null,
+      "name": "Tree trunk log wood grain texture",
+      "selector_pref": "aria://button::Tree trunk log wood grain texture",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1605",
+      "role": "button",
+      "tag": null,
+      "name": "Illustration of a data warehouse with server racks, symbolizing data storage and management.",
+      "selector_pref": "aria://button::Illustration of a data warehouse with server racks, symbolizing data storage and management.",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1615",
+      "role": "button",
+      "tag": null,
+      "name": "children talking in class cartoon vector",
+      "selector_pref": "aria://button::children talking in class cartoon vector",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1624",
+      "role": "button",
+      "tag": null,
+      "name": "birthday party fireworks celebration",
+      "selector_pref": "aria://button::birthday party fireworks celebration",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1633",
+      "role": "button",
+      "tag": null,
+      "name": "knackige Trachten Lederhose Illustration",
+      "selector_pref": "aria://button::knackige Trachten Lederhose Illustration",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1642",
+      "role": "button",
+      "tag": null,
+      "name": "upward gradient arrow",
+      "selector_pref": "aria://button::upward gradient arrow",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1651",
+      "role": "button",
+      "tag": null,
+      "name": "Abstract frame with heart doodle hand drawn for valentine, card, wedding, element and illustration",
+      "selector_pref": "aria://button::Abstract frame with heart doodle hand drawn for valentine, card, wedding, element and illustration",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1660",
+      "role": "button",
+      "tag": null,
+      "name": "PNG Special Lens Flare Light Effect, Bokeh Vector Transparent Sunlight Shine, Sparkling Glow, Radiant Flash, Magic Glitter Particles, Golden",
+      "selector_pref": "aria://button::PNG Special Lens Flare Light Effect, Bokeh Vector Transparent Sunlight Shine, Sparkling Glow, Radiant Flash, Magic Glitter Particles, Golden Shimmer, Glowing Rays, Abstract Light Burst, Twinkling.",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1682",
+      "role": "button",
+      "tag": null,
+      "name": "Red American Football helmet. Side view",
+      "selector_pref": "aria://button::Red American Football helmet. Side view",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1704",
+      "role": "button",
+      "tag": null,
+      "name": "floral frame oval shape",
+      "selector_pref": "aria://button::floral frame oval shape",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1713",
+      "role": "button",
+      "tag": null,
+      "name": "Businesswoman balancing her emotions 3d animation concept",
+      "selector_pref": "aria://button::Businesswoman balancing her emotions 3d animation concept",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1745",
+      "role": "button",
+      "tag": null,
+      "name": "Photography portfolio",
+      "selector_pref": "aria://button::Photography portfolio",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1750",
+      "role": "button",
+      "tag": null,
+      "name": "Dinner party",
+      "selector_pref": "aria://button::Dinner party",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1755",
+      "role": "button",
+      "tag": null,
+      "name": "Light pink about me",
+      "selector_pref": "aria://button::Light pink about me",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1760",
+      "role": "button",
+      "tag": null,
+      "name": "Research journal",
+      "selector_pref": "aria://button::Research journal",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1765",
+      "role": "button",
+      "tag": null,
+      "name": "Band: link in bio",
+      "selector_pref": "aria://button::Band: link in bio",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1770",
+      "role": "button",
+      "tag": null,
+      "name": "Yellow company story",
+      "selector_pref": "aria://button::Yellow company story",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1775",
+      "role": "button",
+      "tag": null,
+      "name": "Travel blog",
+      "selector_pref": "aria://button::Travel blog",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1780",
+      "role": "button",
+      "tag": null,
+      "name": "Blue and white whitepaper",
+      "selector_pref": "aria://button::Blue and white whitepaper",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1785",
+      "role": "button",
+      "tag": null,
+      "name": "Writing portfolio",
+      "selector_pref": "aria://button::Writing portfolio",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1790",
+      "role": "button",
+      "tag": null,
+      "name": "Contemporary look-book",
+      "selector_pref": "aria://button::Contemporary look-book",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1795",
+      "role": "button",
+      "tag": null,
+      "name": "Book report",
+      "selector_pref": "aria://button::Book report",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1800",
+      "role": "button",
+      "tag": null,
+      "name": "Blue business event",
+      "selector_pref": "aria://button::Blue business event",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1805",
+      "role": "button",
+      "tag": null,
+      "name": "Slate business proposal",
+      "selector_pref": "aria://button::Slate business proposal",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1810",
+      "role": "button",
+      "tag": null,
+      "name": "Neon newsletter",
+      "selector_pref": "aria://button::Neon newsletter",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1815",
+      "role": "button",
+      "tag": null,
+      "name": "Learning journal",
+      "selector_pref": "aria://button::Learning journal",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1843",
+      "role": "button",
+      "tag": null,
+      "name": "pile of four text books Gif",
+      "selector_pref": "aria://button::pile of four text books Gif",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1852",
+      "role": "button",
+      "tag": null,
+      "name": "Heart Eyes Smiley",
+      "selector_pref": "aria://button::Heart Eyes Smiley",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1861",
+      "role": "button",
+      "tag": null,
+      "name": "Popping Shining Star",
+      "selector_pref": "aria://button::Popping Shining Star",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1870",
+      "role": "button",
+      "tag": null,
+      "name": "sun animated sticker",
+      "selector_pref": "aria://button::sun animated sticker",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1879",
+      "role": "button",
+      "tag": null,
+      "name": "Swipe Left",
+      "selector_pref": "aria://button::Swipe Left",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1901",
+      "role": "button",
+      "tag": null,
+      "name": "Blur Cursor Click Dots",
+      "selector_pref": "aria://button::Blur Cursor Click Dots",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1910",
+      "role": "button",
+      "tag": null,
+      "name": "A sparkling night sky filled with stars",
+      "selector_pref": "aria://button::A sparkling night sky filled with stars",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1919",
+      "role": "button",
+      "tag": null,
+      "name": "Animated analog clock with ticking hands, showing time progression, animated sticker.",
+      "selector_pref": "aria://button::Animated analog clock with ticking hands, showing time progression, animated sticker.",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1941",
+      "role": "button",
+      "tag": null,
+      "name": "love you animated sticker",
+      "selector_pref": "aria://button::love you animated sticker",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1950",
+      "role": "button",
+      "tag": null,
+      "name": "yellow flowers and hearts decoration Gif",
+      "selector_pref": "aria://button::yellow flowers and hearts decoration Gif",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1959",
+      "role": "button",
+      "tag": null,
+      "name": "Color Spark animated sticker",
+      "selector_pref": "aria://button::Color Spark animated sticker",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1968",
+      "role": "button",
+      "tag": null,
+      "name": "Outlined Heart",
+      "selector_pref": "aria://button::Outlined Heart",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1990",
+      "role": "button",
+      "tag": null,
+      "name": "Shining Star And Shapes",
+      "selector_pref": "aria://button::Shining Star And Shapes",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-1999",
+      "role": "button",
+      "tag": null,
+      "name": "cute sun spinning with sunburst Gif",
+      "selector_pref": "aria://button::cute sun spinning with sunburst Gif",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-2008",
+      "role": "button",
+      "tag": null,
+      "name": "lgtbiq community flag colors in love word Gif",
+      "selector_pref": "aria://button::lgtbiq community flag colors in love word Gif",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    }
+  ]
+}
