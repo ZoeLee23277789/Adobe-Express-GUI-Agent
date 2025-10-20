@@ -1,0 +1,143 @@
+{
+  "meta": {
+    "url": "https://new.express.adobe.com/",
+    "timestamp": 1760921575,
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "screenshot": "screenshot_r8_a2_1760921575.png"
+  },
+  "elements_min": [
+    {
+      "uid": "ax-15",
+      "role": "button",
+      "tag": null,
+      "name": "Close dialog",
+      "selector_pref": "aria://button::Close dialog",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-32",
+      "role": "button",
+      "tag": null,
+      "name": "Upload media",
+      "selector_pref": "aria://button::Upload media",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-62",
+      "role": "button",
+      "tag": null,
+      "name": "Create",
+      "selector_pref": "aria://button::Create",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-69",
+      "role": "button",
+      "tag": null,
+      "name": "Quick actions",
+      "selector_pref": "aria://button::Quick actions",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-81",
+      "role": "tab",
+      "tag": null,
+      "name": "Standard & Suggested",
+      "selector_pref": "aria://tab::Standard & Suggested",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-86",
+      "role": "tab",
+      "tag": null,
+      "name": "Social media and ads",
+      "selector_pref": "aria://tab::Social media and ads",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-91",
+      "role": "tab",
+      "tag": null,
+      "name": "Video",
+      "selector_pref": "aria://tab::Video",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-96",
+      "role": "tab",
+      "tag": null,
+      "name": "Photo",
+      "selector_pref": "aria://tab::Photo",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-101",
+      "role": "tab",
+      "tag": null,
+      "name": "Document",
+      "selector_pref": "aria://tab::Document",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-106",
+      "role": "tab",
+      "tag": null,
+      "name": "Webpage",
+      "selector_pref": "aria://tab::Webpage",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-111",
+      "role": "tab",
+      "tag": null,
+      "name": "Print",
+      "selector_pref": "aria://tab::Print",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-119",
+      "role": "button",
+      "tag": null,
+      "name": "Import from other apps",
+      "selector_pref": "aria://button::Import from other apps",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ax-254",
+      "role": "button",
+      "tag": null,
+      "name": "Browse templates",
+      "selector_pref": "aria://button::Browse templates",
+      "bbox": null,
+      "frame_path": [],
+      "shadow_path": null
+    }
+  ]
+}

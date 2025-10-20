@@ -1,0 +1,748 @@
+{
+  "meta": {
+    "url": "https://www.facebook.com/login.php?skip_api_login=1&api_key=531310443646320&kid_directed_site=0&app_id=531310443646320&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv12.0%2Fdialog%2Foauth%3Fclient_id%3D531310443646320%26redirect_uri%3Dhttps%253A%252F%252Ffederatedid-na1.services.adobe.com%252Ffederated%252FfromOIDC%26state%3DAS1zIVMBw9CWg9qugWB-msXzldPPzuI52n2R_8GLIAHmV019kbX3vowX3rbk0JmQdSrKSZtF9tSC%26scope%3Demail%2Bpublic_profile%26response_type%3Dcode%26ret%3Dlogin%26fbapp_pres%3D0%26logger_id%3D794e01db-dd8e-4734-9ec9-9de2a912e979%26tp%3Dunspecified&cancel_url=https%3A%2F%2Ffederatedid-na1.services.adobe.com%2Ffederated%2FfromOIDC%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3DAS1zIVMBw9CWg9qugWB-msXzldPPzuI52n2R_8GLIAHmV019kbX3vowX3rbk0JmQdSrKSZtF9tSC%23_%3D_&display=page&locale=en_US&pl_dbl=0",
+    "timestamp": 1760928919,
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "screenshot": "screenshot_r1_a2_1760928919.png"
+  },
+  "elements_min": [
+    {
+      "uid": "78e6c9b9",
+      "role": null,
+      "tag": "a",
+      "name": "Facebook",
+      "selector_pref": "a[href=\"https://www.facebook.com/\"]",
+      "bbox": {
+        "x": 222.33334350585938,
+        "y": 51.333335876464844,
+        "width": 170,
+        "height": 15.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "745489ab",
+      "role": "button",
+      "tag": "a",
+      "name": "Create new account",
+      "selector_pref": "a[href=\"/r.php?locale=en_US\"]",
+      "bbox": {
+        "x": 402.3333435058594,
+        "y": 32,
+        "width": 134.70834350585938,
+        "height": 31.33333396911621
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "dcc4310f",
+      "role": "textbox",
+      "tag": "input",
+      "name": "Email or phone number",
+      "selector_pref": "[aria-label=\"Email or phone number\"]",
+      "bbox": {
+        "x": 561.6666870117188,
+        "y": 249.33334350585938,
+        "width": 301.3333435058594,
+        "height": 33.333335876464844
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "141d3d61",
+      "role": "textbox",
+      "tag": "input",
+      "name": "Password",
+      "selector_pref": "[aria-label=\"Password\"]",
+      "bbox": {
+        "x": 561.6666870117188,
+        "y": 294.66668701171875,
+        "width": 301.3333435058594,
+        "height": 33.333335876464844
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "38d2f302",
+      "role": null,
+      "tag": "button",
+      "name": "Log In",
+      "selector_pref": "button#loginbutton",
+      "bbox": {
+        "x": 561.6666870117188,
+        "y": 340,
+        "width": 301.3333435058594,
+        "height": 43.333335876464844
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "63b781e3",
+      "role": null,
+      "tag": "a",
+      "name": "Forgot account?",
+      "selector_pref": "a[href=\"https://www.facebook.com/recover/initiate/?ars=facebook_login&cancel_lara_pswd=0&next=https%3A%2F%2Fwww.facebook.com%2Fv12.0%2Fdialog%2Foauth%3Fclient_id%3D531310443646320%26redirect_uri%3Dhttps%253A%252F%252Ffederatedid-na1.services.adobe.com%252Ffederated%252FfromOIDC%26state%3DAS1zIVMBw9CWg9qugWB-msXzldPPzuI52n2R_8GLIAHmV019kbX3vowX3rbk0JmQdSrKSZtF9tSC%26scope%3Demail%2Bpublic_profile%26response_type%3Dcode%26ret%3Dlogin%26fbapp_pres%3D0%26logger_id%3D794e01db-dd8e-4734-9ec9-9de2a912e979%26tp%3Dunspecified\"]",
+      "bbox": {
+        "x": 668.96875,
+        "y": 396.66668701171875,
+        "width": 86.71875,
+        "height": 13.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "20cb6c12",
+      "role": "button",
+      "tag": "a",
+      "name": "Create new account",
+      "selector_pref": "a[href=\"/r.php?api_key=531310443646320&app_id=531310443646320&cancel_url=https%3A%2F%2Ffederatedid-na1.services.adobe.com%2Ffederated%2FfromOIDC%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3DAS1zIVMBw9CWg9qugWB-msXzldPPzuI52n2R_8GLIAHmV019kbX3vowX3rbk0JmQdSrKSZtF9tSC%23_%3D_&next=https%3A%2F%2Fwww.facebook.com%2Fv12.0%2Fdialog%2Foauth%3Fclient_id%3D531310443646320%26redirect_uri%3Dhttps%253A%252F%252Ffederatedid-na1.services.adobe.com%252Ffederated%252FfromOIDC%26state%3DAS1zIVMBw9CWg9qugWB-msXzldPPzuI52n2R_8GLIAHmV019kbX3vowX3rbk0JmQdSrKSZtF9tSC%26scope%3Demail%2Bpublic_profile%26response_type%3Dcode%26ret%3Dlogin%26fbapp_pres%3D0%26logger_id%3D794e01db-dd8e-4734-9ec9-9de2a912e979%26tp%3Dunspecified&locale=en_US&display=page&entry_point=login\"]",
+      "bbox": {
+        "x": 630.9791870117188,
+        "y": 459.47918701171875,
+        "width": 162.70834350585938,
+        "height": 43.333335876464844
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "d3517534",
+      "role": null,
+      "tag": "a",
+      "name": "Not now",
+      "selector_pref": "a[href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Ffederatedid-na1.services.adobe.com%2Ffederated%2FfromOIDC%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3DAS1zIVMBw9CWg9qugWB-msXzldPPzuI52n2R_8GLIAHmV019kbX3vowX3rbk0JmQdSrKSZtF9tSC%23_%3D_&h=AT1C-EWKSAl5-m-z7V-l6xeBb316dspZByAABzgP8SIK1iMhdYwXEzDwlKNW4q7cUC_BUiqFlftdBOFOLeY13oI1Uu9DIs5GXRHMc7UxTuU4r-0wIzQQp_Gz8mbPmsFUEwJka5VL80k2dy1iRFGRQQ\"]",
+      "bbox": {
+        "x": 686.6458740234375,
+        "y": 512.1458740234375,
+        "width": 51.364585876464844,
+        "height": 13.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "58b4d424",
+      "role": null,
+      "tag": "a",
+      "name": "Español",
+      "selector_pref": "a[href=\"https://www.facebook.com/login.php?skip_api_login=1&api_key=531310443646320&kid_directed_site=0&app_id=531310443646320&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv12.0%2Fdialog%2Foauth%3Fclient_id%3D531310443646320%26redirect_uri%3Dhttps%253A%252F%252Ffederatedid-na1.services.adobe.com%252Ffederated%252FfromOIDC%26state%3DAS1zIVMBw9CWg9qugWB-msXzldPPzuI52n2R_8GLIAHmV019kbX3vowX3rbk0JmQdSrKSZtF9tSC%26scope%3Demail%2Bpublic_profile%26response_type%3Dcode%26ret%3Dlogin%26fbapp_pres%3D0%26logger_id%3D794e01db-dd8e-4734-9ec9-9de2a912e979%26tp%3Dunspecified&cancel_url=https%3A%2F%2Ffederatedid-na1.services.adobe.com%2Ffederated%2FfromOIDC%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3DAS1zIVMBw9CWg9qugWB-msXzldPPzuI52n2R_8GLIAHmV019kbX3vowX3rbk0JmQdSrKSZtF9tSC%23_%3D_&display=page&locale=en_US&pl_dbl=0\"]",
+      "bbox": {
+        "x": 299.6875,
+        "y": 753.625,
+        "width": 43.375,
+        "height": 13.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "32f71fa6",
+      "role": null,
+      "tag": "a",
+      "name": "Français (France)",
+      "selector_pref": "a[href=\"https://es-la.facebook.com/login.php?skip_api_login=1&api_key=531310443646320&kid_directed_site=0&app_id=531310443646320&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv12.0%2Fdialog%2Foauth%3Fclient_id%3D531310443646320%26redirect_uri%3Dhttps%253A%252F%252Ffederatedid-na1.services.adobe.com%252Ffederated%252FfromOIDC%26state%3DAS1zIVMBw9CWg9qugWB-msXzldPPzuI52n2R_8GLIAHmV019kbX3vowX3rbk0JmQdSrKSZtF9tSC%26scope%3Demail%2Bpublic_profile%26response_type%3Dcode%26ret%3Dlogin%26fbapp_pres%3D0%26logger_id%3D794e01db-dd8e-4734-9ec9-9de2a912e979%26tp%3Dunspecified&cancel_url=https%3A%2F%2Ffederatedid-na1.services.adobe.com%2Ffederated%2FfromOIDC%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3DAS1zIVMBw9CWg9qugWB-msXzldPPzuI52n2R_8GLIAHmV019kbX3vowX3rbk0JmQdSrKSZtF9tSC%23_%3D_&display=page&locale=es_LA&pl_dbl=0\"]",
+      "bbox": {
+        "x": 353.0625,
+        "y": 753.625,
+        "width": 94.6875,
+        "height": 13.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "05fa4b20",
+      "role": null,
+      "tag": "a",
+      "name": "中文(简体)",
+      "selector_pref": "a[href=\"https://fr-fr.facebook.com/login.php?skip_api_login=1&api_key=531310443646320&kid_directed_site=0&app_id=531310443646320&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv12.0%2Fdialog%2Foauth%3Fclient_id%3D531310443646320%26redirect_uri%3Dhttps%253A%252F%252Ffederatedid-na1.services.adobe.com%252Ffederated%252FfromOIDC%26state%3DAS1zIVMBw9CWg9qugWB-msXzldPPzuI52n2R_8GLIAHmV019kbX3vowX3rbk0JmQdSrKSZtF9tSC%26scope%3Demail%2Bpublic_profile%26response_type%3Dcode%26ret%3Dlogin%26fbapp_pres%3D0%26logger_id%3D794e01db-dd8e-4734-9ec9-9de2a912e979%26tp%3Dunspecified&cancel_url=https%3A%2F%2Ffederatedid-na1.services.adobe.com%2Ffederated%2FfromOIDC%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3DAS1zIVMBw9CWg9qugWB-msXzldPPzuI52n2R_8GLIAHmV019kbX3vowX3rbk0JmQdSrKSZtF9tSC%23_%3D_&display=page&locale=fr_FR&pl_dbl=0\"]",
+      "bbox": {
+        "x": 457.75,
+        "y": 753.625,
+        "width": 56,
+        "height": 13.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "64db0209",
+      "role": null,
+      "tag": "a",
+      "name": "العربية",
+      "selector_pref": "a[href=\"https://zh-cn.facebook.com/login.php?skip_api_login=1&api_key=531310443646320&kid_directed_site=0&app_id=531310443646320&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv12.0%2Fdialog%2Foauth%3Fclient_id%3D531310443646320%26redirect_uri%3Dhttps%253A%252F%252Ffederatedid-na1.services.adobe.com%252Ffederated%252FfromOIDC%26state%3DAS1zIVMBw9CWg9qugWB-msXzldPPzuI52n2R_8GLIAHmV019kbX3vowX3rbk0JmQdSrKSZtF9tSC%26scope%3Demail%2Bpublic_profile%26response_type%3Dcode%26ret%3Dlogin%26fbapp_pres%3D0%26logger_id%3D794e01db-dd8e-4734-9ec9-9de2a912e979%26tp%3Dunspecified&cancel_url=https%3A%2F%2Ffederatedid-na1.services.adobe.com%2Ffederated%2FfromOIDC%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3DAS1zIVMBw9CWg9qugWB-msXzldPPzuI52n2R_8GLIAHmV019kbX3vowX3rbk0JmQdSrKSZtF9tSC%23_%3D_&display=page&locale=zh_CN&pl_dbl=0\"]",
+      "bbox": {
+        "x": 523.75,
+        "y": 753.625,
+        "width": 25.92708396911621,
+        "height": 13.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "82d43026",
+      "role": null,
+      "tag": "a",
+      "name": "Português (Brasil)",
+      "selector_pref": "a[href=\"https://ar-ar.facebook.com/login.php?skip_api_login=1&api_key=531310443646320&kid_directed_site=0&app_id=531310443646320&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv12.0%2Fdialog%2Foauth%3Fclient_id%3D531310443646320%26redirect_uri%3Dhttps%253A%252F%252Ffederatedid-na1.services.adobe.com%252Ffederated%252FfromOIDC%26state%3DAS1zIVMBw9CWg9qugWB-msXzldPPzuI52n2R_8GLIAHmV019kbX3vowX3rbk0JmQdSrKSZtF9tSC%26scope%3Demail%2Bpublic_profile%26response_type%3Dcode%26ret%3Dlogin%26fbapp_pres%3D0%26logger_id%3D794e01db-dd8e-4734-9ec9-9de2a912e979%26tp%3Dunspecified&cancel_url=https%3A%2F%2Ffederatedid-na1.services.adobe.com%2Ffederated%2FfromOIDC%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3DAS1zIVMBw9CWg9qugWB-msXzldPPzuI52n2R_8GLIAHmV019kbX3vowX3rbk0JmQdSrKSZtF9tSC%23_%3D_&display=page&locale=ar_AR&pl_dbl=0\"]",
+      "bbox": {
+        "x": 559.6771240234375,
+        "y": 753.625,
+        "width": 96.04167175292969,
+        "height": 13.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "8355f43f",
+      "role": null,
+      "tag": "a",
+      "name": "Italiano",
+      "selector_pref": "a[href=\"https://pt-br.facebook.com/login.php?skip_api_login=1&api_key=531310443646320&kid_directed_site=0&app_id=531310443646320&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv12.0%2Fdialog%2Foauth%3Fclient_id%3D531310443646320%26redirect_uri%3Dhttps%253A%252F%252Ffederatedid-na1.services.adobe.com%252Ffederated%252FfromOIDC%26state%3DAS1zIVMBw9CWg9qugWB-msXzldPPzuI52n2R_8GLIAHmV019kbX3vowX3rbk0JmQdSrKSZtF9tSC%26scope%3Demail%2Bpublic_profile%26response_type%3Dcode%26ret%3Dlogin%26fbapp_pres%3D0%26logger_id%3D794e01db-dd8e-4734-9ec9-9de2a912e979%26tp%3Dunspecified&cancel_url=https%3A%2F%2Ffederatedid-na1.services.adobe.com%2Ffederated%2FfromOIDC%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3DAS1zIVMBw9CWg9qugWB-msXzldPPzuI52n2R_8GLIAHmV019kbX3vowX3rbk0JmQdSrKSZtF9tSC%23_%3D_&display=page&locale=pt_BR&pl_dbl=0\"]",
+      "bbox": {
+        "x": 665.71875,
+        "y": 753.625,
+        "width": 38.69791793823242,
+        "height": 13.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "c4ddd3e3",
+      "role": null,
+      "tag": "a",
+      "name": "한국어",
+      "selector_pref": "a[href=\"https://it-it.facebook.com/login.php?skip_api_login=1&api_key=531310443646320&kid_directed_site=0&app_id=531310443646320&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv12.0%2Fdialog%2Foauth%3Fclient_id%3D531310443646320%26redirect_uri%3Dhttps%253A%252F%252Ffederatedid-na1.services.adobe.com%252Ffederated%252FfromOIDC%26state%3DAS1zIVMBw9CWg9qugWB-msXzldPPzuI52n2R_8GLIAHmV019kbX3vowX3rbk0JmQdSrKSZtF9tSC%26scope%3Demail%2Bpublic_profile%26response_type%3Dcode%26ret%3Dlogin%26fbapp_pres%3D0%26logger_id%3D794e01db-dd8e-4734-9ec9-9de2a912e979%26tp%3Dunspecified&cancel_url=https%3A%2F%2Ffederatedid-na1.services.adobe.com%2Ffederated%2FfromOIDC%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3DAS1zIVMBw9CWg9qugWB-msXzldPPzuI52n2R_8GLIAHmV019kbX3vowX3rbk0JmQdSrKSZtF9tSC%23_%3D_&display=page&locale=it_IT&pl_dbl=0\"]",
+      "bbox": {
+        "x": 714.4166870117188,
+        "y": 753.625,
+        "width": 36,
+        "height": 13.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "e10aa267",
+      "role": null,
+      "tag": "a",
+      "name": "Deutsch",
+      "selector_pref": "a[href=\"https://ko-kr.facebook.com/login.php?skip_api_login=1&api_key=531310443646320&kid_directed_site=0&app_id=531310443646320&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv12.0%2Fdialog%2Foauth%3Fclient_id%3D531310443646320%26redirect_uri%3Dhttps%253A%252F%252Ffederatedid-na1.services.adobe.com%252Ffederated%252FfromOIDC%26state%3DAS1zIVMBw9CWg9qugWB-msXzldPPzuI52n2R_8GLIAHmV019kbX3vowX3rbk0JmQdSrKSZtF9tSC%26scope%3Demail%2Bpublic_profile%26response_type%3Dcode%26ret%3Dlogin%26fbapp_pres%3D0%26logger_id%3D794e01db-dd8e-4734-9ec9-9de2a912e979%26tp%3Dunspecified&cancel_url=https%3A%2F%2Ffederatedid-na1.services.adobe.com%2Ffederated%2FfromOIDC%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3DAS1zIVMBw9CWg9qugWB-msXzldPPzuI52n2R_8GLIAHmV019kbX3vowX3rbk0JmQdSrKSZtF9tSC%23_%3D_&display=page&locale=ko_KR&pl_dbl=0\"]",
+      "bbox": {
+        "x": 760.4166870117188,
+        "y": 753.625,
+        "width": 44.03125,
+        "height": 13.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "83dd300c",
+      "role": null,
+      "tag": "a",
+      "name": "हिन्दी",
+      "selector_pref": "a[href=\"https://de-de.facebook.com/login.php?skip_api_login=1&api_key=531310443646320&kid_directed_site=0&app_id=531310443646320&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv12.0%2Fdialog%2Foauth%3Fclient_id%3D531310443646320%26redirect_uri%3Dhttps%253A%252F%252Ffederatedid-na1.services.adobe.com%252Ffederated%252FfromOIDC%26state%3DAS1zIVMBw9CWg9qugWB-msXzldPPzuI52n2R_8GLIAHmV019kbX3vowX3rbk0JmQdSrKSZtF9tSC%26scope%3Demail%2Bpublic_profile%26response_type%3Dcode%26ret%3Dlogin%26fbapp_pres%3D0%26logger_id%3D794e01db-dd8e-4734-9ec9-9de2a912e979%26tp%3Dunspecified&cancel_url=https%3A%2F%2Ffederatedid-na1.services.adobe.com%2Ffederated%2FfromOIDC%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3DAS1zIVMBw9CWg9qugWB-msXzldPPzuI52n2R_8GLIAHmV019kbX3vowX3rbk0JmQdSrKSZtF9tSC%23_%3D_&display=page&locale=de_DE&pl_dbl=0\"]",
+      "bbox": {
+        "x": 814.4479370117188,
+        "y": 753.625,
+        "width": 24.447917938232422,
+        "height": 13.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "b8c4e4a0",
+      "role": null,
+      "tag": "a",
+      "name": "日本語",
+      "selector_pref": "a[href=\"https://hi-in.facebook.com/login.php?skip_api_login=1&api_key=531310443646320&kid_directed_site=0&app_id=531310443646320&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv12.0%2Fdialog%2Foauth%3Fclient_id%3D531310443646320%26redirect_uri%3Dhttps%253A%252F%252Ffederatedid-na1.services.adobe.com%252Ffederated%252FfromOIDC%26state%3DAS1zIVMBw9CWg9qugWB-msXzldPPzuI52n2R_8GLIAHmV019kbX3vowX3rbk0JmQdSrKSZtF9tSC%26scope%3Demail%2Bpublic_profile%26response_type%3Dcode%26ret%3Dlogin%26fbapp_pres%3D0%26logger_id%3D794e01db-dd8e-4734-9ec9-9de2a912e979%26tp%3Dunspecified&cancel_url=https%3A%2F%2Ffederatedid-na1.services.adobe.com%2Ffederated%2FfromOIDC%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3DAS1zIVMBw9CWg9qugWB-msXzldPPzuI52n2R_8GLIAHmV019kbX3vowX3rbk0JmQdSrKSZtF9tSC%23_%3D_&display=page&locale=hi_IN&pl_dbl=0\"]",
+      "bbox": {
+        "x": 848.8958740234375,
+        "y": 753.625,
+        "width": 36,
+        "height": 13.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "32b73660",
+      "role": "button",
+      "tag": "a",
+      "name": "Show more languages",
+      "selector_pref": "a[href=\"#\"]",
+      "bbox": {
+        "x": 894.8958740234375,
+        "y": 750.6666870117188,
+        "width": 29.33333396911621,
+        "height": 19.33333396911621
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "680bbbdd",
+      "role": "contentinfo",
+      "tag": "div",
+      "name": "Sign UpLog InMessengerFacebook LiteVideoMeta PayMeta StoreMeta QuestRay-Ban MetaMeta AIMeta AI more contentInstagramThreadsVoting Informatio",
+      "selector_pref": "[aria-label=\"Facebook site links\"]",
+      "bbox": {
+        "x": 222.33334350585938,
+        "y": 786.6666870117188,
+        "width": 980,
+        "height": 57.59375
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ea87c7ce",
+      "role": null,
+      "tag": "a",
+      "name": "Sign Up",
+      "selector_pref": "a[href=\"/reg/\"]",
+      "bbox": {
+        "x": 222.33334350585938,
+        "y": 789.3333740234375,
+        "width": 42.69791793823242,
+        "height": 13.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "f7312cf8",
+      "role": null,
+      "tag": "a",
+      "name": "Log In",
+      "selector_pref": "a[href=\"/login/\"]",
+      "bbox": {
+        "x": 285.03125,
+        "y": 789.3333740234375,
+        "width": 33.364585876464844,
+        "height": 13.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "2d271e6f",
+      "role": null,
+      "tag": "a",
+      "name": "Messenger",
+      "selector_pref": "a[href=\"https://messenger.com/\"]",
+      "bbox": {
+        "x": 338.3958435058594,
+        "y": 789.3333740234375,
+        "width": 59.364585876464844,
+        "height": 13.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "79070e59",
+      "role": null,
+      "tag": "a",
+      "name": "Facebook Lite",
+      "selector_pref": "a[href=\"/lite/\"]",
+      "bbox": {
+        "x": 417.76043701171875,
+        "y": 789.3333740234375,
+        "width": 75.38542175292969,
+        "height": 13.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "f24dd526",
+      "role": null,
+      "tag": "a",
+      "name": "Video",
+      "selector_pref": "a[href=\"https://www.facebook.com/watch/\"]",
+      "bbox": {
+        "x": 513.1458740234375,
+        "y": 789.3333740234375,
+        "width": 30.479167938232422,
+        "height": 13.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "0ece6f19",
+      "role": null,
+      "tag": "a",
+      "name": "Meta Pay",
+      "selector_pref": "a[href=\"https://about.meta.com/technologies/meta-pay\"]",
+      "bbox": {
+        "x": 563.625,
+        "y": 789.3333740234375,
+        "width": 50.69791793823242,
+        "height": 13.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "e49c31ea",
+      "role": null,
+      "tag": "a",
+      "name": "Meta Store",
+      "selector_pref": "a[href=\"https://www.meta.com/\"]",
+      "bbox": {
+        "x": 634.3229370117188,
+        "y": 789.3333740234375,
+        "width": 58.69791793823242,
+        "height": 13.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "bf119bb6",
+      "role": null,
+      "tag": "a",
+      "name": "Meta Quest",
+      "selector_pref": "a[href=\"https://www.meta.com/quest/\"]",
+      "bbox": {
+        "x": 713.0208740234375,
+        "y": 789.3333740234375,
+        "width": 62.03125,
+        "height": 13.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "744bee3e",
+      "role": null,
+      "tag": "a",
+      "name": "Ray-Ban Meta",
+      "selector_pref": "a[href=\"https://www.meta.com/smart-glasses/\"]",
+      "bbox": {
+        "x": 795.0521240234375,
+        "y": 789.3333740234375,
+        "width": 76.70833587646484,
+        "height": 13.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "893008bd",
+      "role": null,
+      "tag": "a",
+      "name": "Meta AI",
+      "selector_pref": "a[href=\"https://www.meta.ai/\"]",
+      "bbox": {
+        "x": 891.7604370117188,
+        "y": 789.3333740234375,
+        "width": 40.6875,
+        "height": 13.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "ffaa8995",
+      "role": null,
+      "tag": "a",
+      "name": "Meta AI more content",
+      "selector_pref": "a[href=\"https://www.meta.ai/pages/skincare-routine-guide-glowing-skin-tips-products/?utm_source=foa_web_footer\"]",
+      "bbox": {
+        "x": 952.4479370117188,
+        "y": 789.3333740234375,
+        "width": 114.0625,
+        "height": 13.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "1588a736",
+      "role": null,
+      "tag": "a",
+      "name": "Instagram",
+      "selector_pref": "a[href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F&h=AT0fYCN80UTKwVkMbS_vI397WOuOaPDzph94KXyiMGvDPM2_bAw-8yjD8RauYERBJ1P8un3v2uuAeIRkhds4qzP6kXkCigLD8QqETVH_Iw7FyMLQj_SbfFjl9crb09aTmSANOpXJe5kNibkf3YWvRA\"]",
+      "bbox": {
+        "x": 1086.510498046875,
+        "y": 789.3333740234375,
+        "width": 53.364585876464844,
+        "height": 13.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "9d97668b",
+      "role": null,
+      "tag": "a",
+      "name": "Threads",
+      "selector_pref": "a[href=\"https://www.threads.com/\"]",
+      "bbox": {
+        "x": 222.33334350585938,
+        "y": 808.53125,
+        "width": 44.03125,
+        "height": 13.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "85fc58df",
+      "role": null,
+      "tag": "a",
+      "name": "Voting Information Center",
+      "selector_pref": "a[href=\"/votinginformationcenter/?entry_point=c2l0ZQ%3D%3D\"]",
+      "bbox": {
+        "x": 286.3645935058594,
+        "y": 808.53125,
+        "width": 136.08334350585938,
+        "height": 13.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "4ad994f2",
+      "role": null,
+      "tag": "a",
+      "name": "Privacy Policy",
+      "selector_pref": "a[href=\"/privacy/policy/?entry_point=facebook_page_footer\"]",
+      "bbox": {
+        "x": 442.44793701171875,
+        "y": 808.53125,
+        "width": 74.6875,
+        "height": 13.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "4d689d49",
+      "role": null,
+      "tag": "a",
+      "name": "Consumer Health Privacy",
+      "selector_pref": "a[href=\"/privacy/policies/health/?entry_point=facebook_page_footer\"]",
+      "bbox": {
+        "x": 537.1354370117188,
+        "y": 808.53125,
+        "width": 136.05209350585938,
+        "height": 13.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "5ee15a04",
+      "role": null,
+      "tag": "a",
+      "name": "Privacy Center",
+      "selector_pref": "a[href=\"/privacy/center/?entry_point=facebook_page_footer\"]",
+      "bbox": {
+        "x": 693.1875,
+        "y": 808.53125,
+        "width": 78.69792175292969,
+        "height": 13.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "1715cb88",
+      "role": null,
+      "tag": "a",
+      "name": "About",
+      "selector_pref": "a[href=\"https://about.meta.com/\"]",
+      "bbox": {
+        "x": 791.8854370117188,
+        "y": 808.53125,
+        "width": 31.36458396911621,
+        "height": 13.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "88be4530",
+      "role": null,
+      "tag": "a",
+      "name": "Create ad",
+      "selector_pref": "a[href=\"/ad_campaign/landing.php?placement=pflo&campaign_id=402047449186&nav_source=unknown&extra_1=auto\"]",
+      "bbox": {
+        "x": 843.25,
+        "y": 808.53125,
+        "width": 52.708335876464844,
+        "height": 13.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "5cd6ed01",
+      "role": null,
+      "tag": "a",
+      "name": "Create Page",
+      "selector_pref": "a[href=\"/pages/create/?ref_type=site_footer\"]",
+      "bbox": {
+        "x": 915.9583740234375,
+        "y": 808.53125,
+        "width": 67.38542175292969,
+        "height": 13.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "97919c26",
+      "role": null,
+      "tag": "a",
+      "name": "Developers",
+      "selector_pref": "a[href=\"https://developers.facebook.com/?ref=pf\"]",
+      "bbox": {
+        "x": 1003.34375,
+        "y": 808.53125,
+        "width": 60.69791793823242,
+        "height": 13.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "9b2a8d38",
+      "role": null,
+      "tag": "a",
+      "name": "Careers",
+      "selector_pref": "a[href=\"/careers/?ref=pf\"]",
+      "bbox": {
+        "x": 1084.041748046875,
+        "y": 808.53125,
+        "width": 42.6875,
+        "height": 13.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "fecdf78a",
+      "role": null,
+      "tag": "a",
+      "name": "Cookies",
+      "selector_pref": "a[href=\"/policies/cookies/\"]",
+      "bbox": {
+        "x": 1146.729248046875,
+        "y": 808.53125,
+        "width": 43.35416793823242,
+        "height": 13.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "70e80680",
+      "role": null,
+      "tag": "a",
+      "name": "Ad choices",
+      "selector_pref": "a[href=\"https://www.facebook.com/help/568137493302217\"]",
+      "bbox": {
+        "x": 222.33334350585938,
+        "y": 825.0625,
+        "width": 72.70833587646484,
+        "height": 19.197917938232422
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "8a48b299",
+      "role": null,
+      "tag": "a",
+      "name": "Terms",
+      "selector_pref": "a[href=\"/policies?ref=pf\"]",
+      "bbox": {
+        "x": 315.04168701171875,
+        "y": 827.7291870117188,
+        "width": 32.66666793823242,
+        "height": 13.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "095da15a",
+      "role": null,
+      "tag": "a",
+      "name": "Help",
+      "selector_pref": "a[href=\"/help/?ref=pf\"]",
+      "bbox": {
+        "x": 367.7083435058594,
+        "y": 827.7291870117188,
+        "width": 24.6875,
+        "height": 13.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "b724b80b",
+      "role": null,
+      "tag": "a",
+      "name": "Contact Uploading & Non-Users",
+      "selector_pref": "a[href=\"https://www.facebook.com/help/637205020878504\"]",
+      "bbox": {
+        "x": 412.3958435058594,
+        "y": 827.7291870117188,
+        "width": 170.75,
+        "height": 13.333333969116211
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "96a1586f",
+      "role": null,
+      "tag": "a",
+      "name": "Settings",
+      "selector_pref": "a[href=\"/settings\"]",
+      "bbox": {
+        "x": 603.1458740234375,
+        "y": 825.0625,
+        "width": 1,
+        "height": 1
+      },
+      "frame_path": [],
+      "shadow_path": null
+    },
+    {
+      "uid": "23caa427",
+      "role": null,
+      "tag": "a",
+      "name": "Activity log",
+      "selector_pref": "a[href=\"/allactivity?privacy_source=activity_log_top_menu\"]",
+      "bbox": {
+        "x": 623.1458740234375,
+        "y": 825.0625,
+        "width": 1,
+        "height": 1
+      },
+      "frame_path": [],
+      "shadow_path": null
+    }
+  ]
+}
